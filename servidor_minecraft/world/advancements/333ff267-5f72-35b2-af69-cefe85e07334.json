@@ -1,109 +1,351 @@
 {
   "tconstruct:tools/materials_and_you": {
     "criteria": {
-      "crafted_book": "2025-07-27 03:10:40 +0000"
+      "crafted_book": "2025-07-27 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tables/pattern": {
+    "criteria": {
+      "has_item": "2025-07-27 23:17:27 +0000"
     },
     "done": true
   },
   "create:root": {
     "criteria": {
-      "0": "2025-07-27 03:10:40 +0000"
+      "0": "2025-07-27 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-07-27 03:10:40 +0000"
+      "unlock_right_away": "2025-07-27 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_wood": {
+    "criteria": {
+      "has_log": "2025-07-27 23:17:15 +0000"
     },
     "done": true
   },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
-      "tick": "2025-07-27 03:10:40 +0000"
+      "tick": "2025-07-27 23:13:42 +0000"
     },
     "done": true
   },
   "iceandfire:iceandfire/root": {
     "criteria": {
-      "tick": "2025-07-27 03:10:40 +0000"
+      "tick": "2025-07-27 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
     },
     "done": true
   },
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
-      "custom_test_name": "2025-07-27 03:10:40 +0000"
+      "custom_test_name": "2025-07-27 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
     },
     "done": true
   },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
-      "bornin_chaos_0": "2025-07-27 03:10:40 +0000"
+      "bornin_chaos_0": "2025-07-27 23:13:42 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "larch_log": "2025-07-27 23:17:15 +0000"
+    },
+    "done": false
+  },
   "legendary_monsters:end_root": {
     "criteria": {
-      "custom_test_name": "2025-07-27 03:10:40 +0000"
+      "custom_test_name": "2025-07-27 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
     },
     "done": true
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "willow_forest": "2025-07-27 03:10:41 +0000"
+      "maple_forest": "2025-07-27 23:13:43 +0000",
+      "boreal_forest": "2025-07-27 23:15:04 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "willow_forest": "2025-07-27 03:10:41 +0000"
+      "maple_forest": "2025-07-27 23:13:43 +0000",
+      "boreal_forest": "2025-07-27 23:15:04 +0000"
     },
     "done": false
   },
   "legendary_monsters:nether_root": {
     "criteria": {
-      "custom_test_name": "2025-07-27 03:10:40 +0000"
+      "custom_test_name": "2025-07-27 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
     },
     "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
-      "custom_test_name": "2025-07-27 03:10:40 +0000"
+      "custom_test_name": "2025-07-27 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-27 23:17:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
+    "criteria": {
+      "has_log": "2025-07-27 23:17:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-07-27 23:17:15 +0000"
     },
     "done": true
   },
   "regions_unexplored:parent": {
     "criteria": {
-      "load_in_world": "2025-07-27 03:10:41 +0000"
+      "load_in_world": "2025-07-27 23:13:43 +0000"
     },
     "done": true
   },
   "orcz:orczchallenge": {
     "criteria": {
-      "orczchallenge": "2025-07-27 03:10:40 +0000"
+      "orczchallenge": "2025-07-27 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
     },
     "done": true
   },
   "faded_conquest_2:faded_2": {
     "criteria": {
-      "faded_2_0": "2025-07-27 03:10:40 +0000"
+      "faded_2_0": "2025-07-27 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-27 23:17:15 +0000"
     },
     "done": true
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2025-07-27 03:10:40 +0000"
+      "custom_test_name": "2025-07-27 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
     },
     "done": true
   },
   "tconstruct:internal/starting_book": {
     "criteria": {
-      "tick": "2025-07-27 03:10:40 +0000"
+      "tick": "2025-07-27 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
     },
     "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2025-07-27 03:10:40 +0000"
+      "seeds": "2025-07-27 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2025-07-27 23:17:27 +0000"
     },
     "done": true
   },
