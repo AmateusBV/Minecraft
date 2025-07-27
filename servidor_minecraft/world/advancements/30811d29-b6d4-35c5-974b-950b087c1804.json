@@ -93,6 +93,7 @@
     "criteria": {
       "muddy_river": "2025-07-27 07:30:02 +0000",
       "maple_forest": "2025-07-27 06:47:39 +0000",
+      "mountains": "2025-07-27 23:40:17 +0000",
       "boreal_forest": "2025-07-27 06:48:43 +0000",
       "pine_slopes": "2025-07-27 08:45:07 +0000",
       "golden_boreal_taiga": "2025-07-27 08:50:25 +0000"
@@ -103,6 +104,7 @@
     "criteria": {
       "muddy_river": "2025-07-27 07:30:02 +0000",
       "maple_forest": "2025-07-27 06:47:39 +0000",
+      "mountains": "2025-07-27 23:40:17 +0000",
       "boreal_forest": "2025-07-27 06:48:43 +0000",
       "pine_slopes": "2025-07-27 08:45:07 +0000",
       "golden_boreal_taiga": "2025-07-27 08:50:25 +0000"
@@ -126,7 +128,8 @@
       "minecraft:taiga": "2025-07-27 06:51:46 +0000",
       "minecraft:river": "2025-07-27 08:38:26 +0000",
       "minecraft:stony_shore": "2025-07-27 06:50:18 +0000",
-      "minecraft:cold_ocean": "2025-07-27 06:50:49 +0000"
+      "minecraft:cold_ocean": "2025-07-27 06:50:49 +0000",
+      "minecraft:forest": "2025-07-27 23:20:41 +0000"
     },
     "done": false
   },
@@ -265,6 +268,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-27 06:53:27 +0000",
+      "minecraft:spider": "2025-07-27 23:43:34 +0000",
       "minecraft:cave_spider": "2025-07-27 07:54:00 +0000",
       "minecraft:enderman": "2025-07-27 23:15:04 +0000",
       "minecraft:zombie": "2025-07-27 06:55:29 +0000"
@@ -3087,6 +3091,7 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
+      "bluemoon_greatsword": "2025-07-27 23:32:36 +0000",
       "sting": "2025-07-27 08:09:38 +0000"
     },
     "done": false
@@ -4480,6 +4485,294 @@
   "tconstruct:recipes/combat/tools/armor/travelers_shield": {
     "criteria": {
       "has_item": "2025-07-27 08:47:40 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:all_moonlight_weapons": {
+    "criteria": {
+      "bluemoon_greatsword": "2025-07-27 23:32:36 +0000"
+    },
+    "done": false
+  },
+  "expanded_combat:recipes/combat/leather_stick_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-27 23:34:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-27 23:37:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-27 23:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-27 23:35:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_item": {
+    "criteria": {
+      "has_small_backpack": "2025-07-27 23:27:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-27 23:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-27 23:35:38 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2025-07-27 23:41:38 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-27 23:41:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-27 23:35:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-07-27 23:47:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:bluemoon_tools": {
+    "criteria": {
+      "bluemoon_greatsword": "2025-07-27 23:32:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-07-27 23:41:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-27 23:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-27 23:35:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-27 23:37:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-07-27 23:41:38 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_medium": {
+    "criteria": {
+      "has_small_backpack": "2025-07-27 23:27:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-27 23:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-27 23:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-27 23:35:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_tag": {
+    "criteria": {
+      "has_small_backpack": "2025-07-27 23:27:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-07-27 23:41:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-27 23:37:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-27 23:41:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:27:40 +0000"
     },
     "done": true
   },
