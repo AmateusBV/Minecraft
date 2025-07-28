@@ -8316,6 +8316,12 @@
     },
     "done": true
   },
+  "tconstruct:world/tinkers_gadgetry": {
+    "criteria": {
+      "crafted_book": "2025-07-28 03:53:54 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_cracked_bricks_smelting": {
     "criteria": {
       "has_item": "2025-07-28 03:25:57 +0000"

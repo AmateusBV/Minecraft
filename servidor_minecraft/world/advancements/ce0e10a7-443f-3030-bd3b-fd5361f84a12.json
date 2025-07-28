@@ -1809,7 +1809,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-27 23:34:55 +0000",
-      "minecraft:zombie": "2025-07-27 07:06:57 +0000"
+      "minecraft:zombie": "2025-07-27 07:06:57 +0000",
+      "minecraft:zombie_villager": "2025-07-28 04:01:50 +0000"
     },
     "done": false
   },
@@ -6919,6 +6920,12 @@
   "regions_unexplored:recipes/decorations/pine_hanging_sign": {
     "criteria": {
       "has_stripped_pine_log": "2025-07-28 03:04:10 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-07-28 03:58:32 +0000"
     },
     "done": true
   },
