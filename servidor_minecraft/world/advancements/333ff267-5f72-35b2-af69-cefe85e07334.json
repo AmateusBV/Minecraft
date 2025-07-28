@@ -1271,9 +1271,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-07-28 00:50:45 +0000",
+      "minecraft:river": "2025-07-28 00:49:25 +0000",
       "minecraft:stony_shore": "2025-07-27 23:28:12 +0000",
       "minecraft:grove": "2025-07-28 00:33:30 +0000",
       "minecraft:cold_ocean": "2025-07-27 23:30:49 +0000",
+      "minecraft:forest": "2025-07-28 00:44:40 +0000",
       "minecraft:plains": "2025-07-28 00:34:05 +0000"
     },
     "done": false
@@ -3272,6 +3275,300 @@
   "regions_unexplored:recipes/decorations/maple_shrub": {
     "criteria": {
       "has_maple_sapling": "2025-07-28 00:37:47 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_warped_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/bamboo_furnace_raft": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_spruce_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/warped_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/mangrove_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/jungle_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_crimson_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_jungle_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/oak_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/acacia_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/dark_oak_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/wide_bamboo_raft": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_birch_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/cherry_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/birch_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/spruce_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/crimson_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_oak_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_cherry_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_dark_oak_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_acacia_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_mangrove_boat": {
+    "criteria": {
+      "has_boat": "2025-07-28 00:52:30 +0000"
     },
     "done": true
   },

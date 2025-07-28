@@ -11357,3 +11357,55 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [28Jul2025 00:44:20.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 1.8654498140780333
 [28Jul2025 00:44:20.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 2.0
 [28Jul2025 00:44:20.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 2.0
+[28Jul2025 00:46:38.138] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/34236, l='ServerLevel[world]', x=-712.19, y=96.06, z=-871.93]
+[28Jul2025 00:47:08.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh has made the advancement [Magery]
+[28Jul2025 00:47:39.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 00:47:39.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 00:48:06.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.3904847102750182
+[28Jul2025 00:48:06.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.8500998836219651
+[28Jul2025 00:48:06.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 1.3077412485304194
+[28Jul2025 00:48:06.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 1.7650554944999612
+[28Jul2025 00:48:31.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.3072792647086544
+[28Jul2025 00:48:31.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.510188904544799
+[28Jul2025 00:48:31.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.4783902150893977
+[28Jul2025 00:48:31.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.39781487245257313
+[28Jul2025 00:48:31.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.396484375
+[28Jul2025 00:48:46.184] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/34236, l='ServerLevel[world]', x=-623.05, y=94.00, z=-776.41]
+[28Jul2025 00:50:41.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.3159025358706913
+[28Jul2025 00:50:41.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.7958300493628485
+[28Jul2025 00:50:41.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 1.3635240580749723
+[28Jul2025 00:50:41.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 1.9781801685041955
+[28Jul2025 00:50:41.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 2.617964763238888
+[28Jul2025 00:50:41.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 3.2711951089174818
+[28Jul2025 00:50:41.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 3.9316200078468455
+[28Jul2025 00:50:44.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.2676357822488171
+[28Jul2025 00:50:44.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.9525112188455296
+[28Jul2025 00:51:20.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.5392477304453678
+[28Jul2025 00:51:21.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 1.1934395536477496
+[28Jul2025 00:51:31.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.49408401080756903
+[28Jul2025 00:51:31.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 1.1279550256788298
+[28Jul2025 00:51:31.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 1.7632257957934598
+[28Jul2025 00:51:31.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 2.3992455470306595
+[28Jul2025 00:51:37.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.34732604063651706
+[28Jul2025 00:51:37.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 1.040587829950823
+[28Jul2025 00:51:37.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 1.7333944474232794
+[28Jul2025 00:51:37.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.42385336699805976
+[28Jul2025 00:52:39.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 00:52:39.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 00:52:54.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiniSalchi was slain by  zatlah  ❤157
+[28Jul2025 00:52:55.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AmateuS) moved wrongly! 0.40261539706989424
+[28Jul2025 00:52:56.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AmateuS) moved wrongly! 0.32316107418523643
+[28Jul2025 00:53:27.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-563, y=79, z=-637} BlockPos{x=-645, y=66, z=-483}
+[28Jul2025 00:53:30.159] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-563, y=79, z=-637} BlockPos{x=-645, y=67, z=-483}
+[28Jul2025 00:53:32.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-563, y=79, z=-637} BlockPos{x=-645, y=67, z=-483}
+[28Jul2025 00:53:32.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[28Jul2025 00:53:33.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-563, y=79, z=-637} BlockPos{x=-645, y=67, z=-483}
+[28Jul2025 00:53:38.983] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-563, y=79, z=-637} BlockPos{x=-645, y=66, z=-483}
+[28Jul2025 00:53:50.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
+[28Jul2025 00:53:53.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-563, y=79, z=-637} BlockPos{x=-645, y=64, z=-483}
+[28Jul2025 00:54:07.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-563, y=79, z=-637} BlockPos{x=-645, y=66, z=-483}
+[28Jul2025 00:54:08.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-563, y=79, z=-637} BlockPos{x=-645, y=67, z=-483}
+[28Jul2025 00:54:08.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-563, y=79, z=-637} BlockPos{x=-645, y=68, z=-483}
+[28Jul2025 00:54:08.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-563, y=79, z=-637} BlockPos{x=-645, y=67, z=-483}
+[28Jul2025 00:54:09.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3971ms or 79 ticks behind
+[28Jul2025 00:54:27.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2777ms or 55 ticks behind

@@ -132,6 +132,7 @@
       "minecraft:taiga": "2025-07-27 07:03:34 +0000",
       "minecraft:river": "2025-07-27 08:38:14 +0000",
       "minecraft:stony_shore": "2025-07-27 06:55:19 +0000",
+      "minecraft:grove": "2025-07-28 00:47:30 +0000",
       "minecraft:cold_ocean": "2025-07-27 06:57:54 +0000",
       "minecraft:forest": "2025-07-28 00:36:50 +0000",
       "minecraft:desert": "2025-07-27 06:38:37 +0000",
@@ -5756,6 +5757,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-07-28 00:49:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-07-27 23:40:38 +0000"
@@ -5880,6 +5887,12 @@
   "expanded_combat:recipes/combat/gold_bow_conditional_shaped_skip": {
     "criteria": {
       "has_item": "2025-07-28 00:21:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/birch_sapling_from_birch_shrub": {
+    "criteria": {
+      "has_birch_shrub": "2025-07-28 00:48:36 +0000"
     },
     "done": true
   },

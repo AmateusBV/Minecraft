@@ -132,6 +132,7 @@
       "minecraft:taiga": "2025-07-27 06:51:46 +0000",
       "minecraft:river": "2025-07-27 08:38:26 +0000",
       "minecraft:stony_shore": "2025-07-27 06:50:18 +0000",
+      "minecraft:grove": "2025-07-28 00:48:29 +0000",
       "minecraft:cold_ocean": "2025-07-27 06:50:49 +0000",
       "minecraft:forest": "2025-07-27 23:20:41 +0000",
       "minecraft:plains": "2025-07-28 00:34:55 +0000"
@@ -293,6 +294,7 @@
       "cooked_porkchop": "2025-07-28 00:38:34 +0000",
       "sweet_berries": "2025-07-27 06:54:05 +0000",
       "cooked_beef": "2025-07-27 07:27:15 +0000",
+      "porkchop": "2025-07-28 00:44:27 +0000",
       "potato": "2025-07-27 08:24:27 +0000",
       "bread": "2025-07-27 07:09:17 +0000",
       "rotten_flesh": "2025-07-27 07:39:20 +0000",
@@ -4581,6 +4583,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-07-28 00:49:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-27 23:35:38 +0000"
@@ -5106,6 +5114,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-07-27 23:37:48 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-07-28 00:47:08 +0000"
     },
     "done": true
   },
