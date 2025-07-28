@@ -93,10 +93,13 @@
     "criteria": {
       "silver_birch_forest": "2025-07-28 00:33:18 +0000",
       "autumnal_maple_forest": "2025-07-28 00:17:47 +0000",
+      "muddy_river": "2025-07-28 01:02:09 +0000",
+      "ochard": "2025-07-28 01:15:08 +0000",
       "maple_forest": "2025-07-27 23:13:43 +0000",
       "mountains": "2025-07-28 00:39:20 +0000",
       "boreal_forest": "2025-07-27 23:15:04 +0000",
-      "pine_slopes": "2025-07-27 23:52:30 +0000"
+      "pine_slopes": "2025-07-27 23:52:30 +0000",
+      "golden_boreal_taiga": "2025-07-28 01:02:28 +0000"
     },
     "done": false
   },
@@ -104,10 +107,13 @@
     "criteria": {
       "silver_birch_forest": "2025-07-28 00:33:18 +0000",
       "autumnal_maple_forest": "2025-07-28 00:17:47 +0000",
+      "muddy_river": "2025-07-28 01:02:09 +0000",
+      "ochard": "2025-07-28 01:15:08 +0000",
       "maple_forest": "2025-07-27 23:13:43 +0000",
       "mountains": "2025-07-28 00:39:20 +0000",
       "boreal_forest": "2025-07-27 23:15:04 +0000",
-      "pine_slopes": "2025-07-27 23:52:30 +0000"
+      "pine_slopes": "2025-07-27 23:52:30 +0000",
+      "golden_boreal_taiga": "2025-07-28 01:02:28 +0000"
     },
     "done": false
   },
@@ -1272,11 +1278,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-07-28 00:50:45 +0000",
+      "minecraft:sunflower_plains": "2025-07-28 01:16:27 +0000",
       "minecraft:river": "2025-07-28 00:49:25 +0000",
       "minecraft:stony_shore": "2025-07-27 23:28:12 +0000",
       "minecraft:grove": "2025-07-28 00:33:30 +0000",
       "minecraft:cold_ocean": "2025-07-27 23:30:49 +0000",
       "minecraft:forest": "2025-07-28 00:44:40 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-28 01:00:42 +0000",
+      "minecraft:frozen_ocean": "2025-07-28 00:56:18 +0000",
       "minecraft:plains": "2025-07-28 00:34:05 +0000"
     },
     "done": false
@@ -2154,7 +2163,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-28 00:25:42 +0000",
-      "bread": "2025-07-27 23:44:41 +0000"
+      "bread": "2025-07-27 23:44:41 +0000",
+      "cod": "2025-07-28 01:19:54 +0000"
     },
     "done": false
   },
@@ -3284,9 +3294,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/purple_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:21:54 +0000"
     },
     "done": true
   },
@@ -3296,9 +3318,33 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/birch_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:21:54 +0000"
     },
     "done": true
   },
@@ -3314,6 +3360,24 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-28 00:55:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cabbage_from_leaves": {
+    "criteria": {
+      "has_cabbage_leaf": "2025-07-28 01:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
@@ -3323,6 +3387,18 @@
   "boatload:recipes/transportation/large_spruce_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:21:54 +0000"
     },
     "done": true
   },
@@ -3338,9 +3414,81 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-07-28 01:09:08 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_slab_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 01:07:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-28 01:07:14 +0000"
     },
     "done": true
   },
@@ -3350,15 +3498,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-07-28 01:09:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 01:07:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-28 01:21:54 +0000"
     },
     "done": true
   },
@@ -3374,9 +3564,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:21:54 +0000"
     },
     "done": true
   },
@@ -3398,6 +3606,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/birch_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/crimson_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
@@ -3410,9 +3624,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-28 01:12:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 01:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-28 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-28 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/mauve_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-28 01:21:54 +0000"
     },
     "done": true
   },
@@ -3428,15 +3684,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-28 01:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/acacia_furnace_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/barrel_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-28 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-28 01:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/dark_oak_furnace_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:21:54 +0000"
     },
     "done": true
   },
@@ -3452,6 +3750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/large_birch_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
@@ -3464,9 +3768,39 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/birch_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/birch_furnace_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-07-28 01:07:14 +0000"
     },
     "done": true
   },
@@ -3476,9 +3810,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-28 01:21:54 +0000"
     },
     "done": true
   },
@@ -3488,9 +3834,39 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-07-28 01:06:43 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/spruce_furnace_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-07-28 01:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-28 01:09:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-07-28 01:06:43 +0000"
     },
     "done": true
   },
@@ -3500,9 +3876,57 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-07-28 01:06:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 01:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/chest_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:21:54 +0000"
     },
     "done": true
   },
@@ -3515,6 +3939,18 @@
   "boatload:recipes/transportation/crimson_furnace_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-28 01:07:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 01:07:14 +0000"
     },
     "done": true
   },
@@ -3554,6 +3990,30 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/birch_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 01:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-28 01:12:00 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/large_dark_oak_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
@@ -3566,9 +4026,51 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/green_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/large_mangrove_boat": {
     "criteria": {
       "has_boat": "2025-07-28 00:52:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-28 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-28 01:07:14 +0000"
     },
     "done": true
   },
