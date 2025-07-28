@@ -7799,6 +7799,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:24:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-07-28 02:53:11 +0000"
@@ -7898,6 +7904,12 @@
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-28 04:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:24:27 +0000"
     },
     "done": true
   },
@@ -8101,6 +8113,7 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
+      "tough_binding": "2025-07-28 05:32:27 +0000",
       "leggings_plating": "2025-07-28 05:19:29 +0000",
       "small_blade": "2025-07-28 05:20:17 +0000",
       "tool_binding": "2025-07-28 05:19:40 +0000",
@@ -8168,6 +8181,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:24:27 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/purple_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-28 04:24:05 +0000"
@@ -8207,6 +8226,12 @@
   "mca:recipes/decorations/green_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-28 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:24:27 +0000"
     },
     "done": true
   },
@@ -8492,6 +8517,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:24:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-07-28 04:24:05 +0000"
@@ -8519,6 +8556,12 @@
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-07-28 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:24:27 +0000"
     },
     "done": true
   },
@@ -8738,6 +8781,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/common/glass/vanilla/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:24:27 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_cobble_wall_stonecutter": {
     "criteria": {
       "has_item": "2025-07-28 03:39:19 +0000"
@@ -8840,6 +8889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:24:27 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 04:24:05 +0000"
@@ -8867,6 +8922,12 @@
   "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-07-28 02:53:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/gadgets/shuriken/quartz_shuriken": {
+    "criteria": {
+      "has_item": "2025-07-28 05:24:27 +0000"
     },
     "done": true
   },

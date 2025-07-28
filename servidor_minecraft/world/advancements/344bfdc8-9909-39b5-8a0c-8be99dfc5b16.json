@@ -1699,6 +1699,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-28 05:32:53 +0000"
+    },
+    "done": true
+  },
   "ec_es_plugin:recipes/combat/iron_ninja_gauntlet_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-27 23:43:51 +0000"
@@ -3289,6 +3295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-28 05:23:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_the_recipe": "2025-07-27 23:43:51 +0000"
@@ -4157,6 +4169,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-28 05:20:30 +0000",
+      "minecraft:spider": "2025-07-28 05:23:07 +0000",
       "minecraft:zombie": "2025-07-27 23:46:43 +0000",
       "minecraft:drowned": "2025-07-28 04:22:54 +0000"
     },
@@ -4587,6 +4600,13 @@
       "has_planks": "2025-07-28 00:01:51 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-07-28 05:32:55 +0000",
+      "minecraft:cow": "2025-07-28 05:32:53 +0000"
+    },
+    "done": false
   },
   "soulsweapons:recipes/combat/skofnung_stone": {
     "criteria": {

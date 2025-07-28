@@ -95,6 +95,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-07-28 03:56:46 +0000"
@@ -128,6 +140,12 @@
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-07-28 03:56:46 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2025-07-28 05:29:28 +0000"
     },
     "done": true
   },
@@ -191,9 +209,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-07-28 04:12:43 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
     },
     "done": true
   },
@@ -251,12 +281,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-07-28 03:45:59 +0000",
       "wheat": "2025-07-28 04:19:51 +0000"
     },
     "done": false
+  },
+  "expanded_combat:recipes/combat/diamond_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
   },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
@@ -273,6 +315,12 @@
   "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
     "criteria": {
       "has_planks": "2025-07-28 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_bow_conditional_shaped_skip": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
     },
     "done": true
   },
@@ -309,6 +357,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-07-28 03:56:46 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
     },
     "done": true
   },
@@ -402,6 +456,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/half_diamond_bow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "usefulbackpacks:recipes/backpack_small": {
     "criteria": {
       "has_wool": "2025-07-28 04:12:43 +0000"
@@ -450,6 +510,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-07-28 04:24:12 +0000"
@@ -495,6 +561,12 @@
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-07-28 03:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-07-28 05:29:28 +0000"
     },
     "done": true
   },
@@ -581,6 +653,12 @@
       "maple_log": "2025-07-28 03:29:42 +0000"
     },
     "done": false
+  },
+  "expanded_combat:recipes/combat/diamond_crossbow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
@@ -774,6 +852,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/diamond_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-07-28 03:56:46 +0000"
@@ -846,9 +930,21 @@
     },
     "done": true
   },
+  "ec_es_plugin:recipes/combat/diamond_ninja_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-28 03:56:46 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
     },
     "done": true
   },
@@ -960,9 +1056,27 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/diamond_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-07-28 03:56:46 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-28 05:29:28 +0000"
     },
     "done": true
   },
@@ -1129,6 +1243,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/diamond_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2025-07-28 04:32:53 +0000",
@@ -1163,6 +1283,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-28 03:56:46 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
     },
     "done": true
   },
@@ -1277,6 +1403,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/diamond_bow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-28 03:31:33 +0000"
@@ -1337,6 +1469,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/orange_maple_shrub": {
+    "criteria": {
+      "has_orange_maple_sapling": "2025-07-28 05:25:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-28 04:36:31 +0000"
@@ -1346,6 +1484,12 @@
   "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-28 04:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-28 05:29:28 +0000"
     },
     "done": true
   },
@@ -1412,6 +1556,12 @@
   "tconstruct:recipes/redstone/smeltery/seared/drain": {
     "criteria": {
       "has_item": "2025-07-28 04:48:18 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_bow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
     },
     "done": true
   },
@@ -1520,6 +1670,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-07-28 03:31:33 +0000"
@@ -1556,6 +1718,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/diamond_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/briefcase": {
     "criteria": {
       "has_iron": "2025-07-28 03:56:46 +0000"
@@ -1583,6 +1751,12 @@
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-07-28 03:56:46 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
     },
     "done": true
   },
@@ -1644,6 +1818,12 @@
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-07-28 03:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-28 05:29:28 +0000"
     },
     "done": true
   },
@@ -1761,6 +1941,18 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/diamond_arrow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-07-28 03:56:46 +0000"
@@ -1815,6 +2007,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-28 03:56:46 +0000"
@@ -1833,6 +2031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2025-07-28 05:09:32 +0000"
@@ -1848,6 +2052,12 @@
   "regions_unexplored:recipes/transportation/eucalyptus_boat": {
     "criteria": {
       "in_water": "2025-07-28 03:45:52 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
     },
     "done": true
   },
@@ -1983,6 +2193,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/half_diamond_bow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_mace_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 03:56:46 +0000"
@@ -2031,6 +2247,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_door": {
     "criteria": {
       "has_maple_planks": "2025-07-28 03:31:05 +0000"
@@ -2058,6 +2280,12 @@
   "tconstruct:recipes/redstone/smeltery/seared/faucet": {
     "criteria": {
       "has_item": "2025-07-28 04:48:18 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
     },
     "done": true
   },
@@ -2203,6 +2431,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-07-28 04:17:50 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
     },
     "done": true
   },
@@ -2364,6 +2598,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/diamond_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 05:29:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-07-28 03:45:52 +0000"
@@ -2385,6 +2625,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-07-28 04:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-07-28 05:29:28 +0000"
     },
     "done": true
   },
