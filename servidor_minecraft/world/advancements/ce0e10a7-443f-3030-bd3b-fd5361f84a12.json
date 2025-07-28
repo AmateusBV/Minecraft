@@ -98,6 +98,7 @@
       "maple_forest": "2025-07-27 06:31:02 +0000",
       "outback": "2025-07-27 06:38:29 +0000",
       "boreal_forest": "2025-07-27 06:52:57 +0000",
+      "towering_cliffs": "2025-07-28 03:03:11 +0000",
       "cold_river": "2025-07-28 01:16:34 +0000",
       "pine_slopes": "2025-07-27 08:47:25 +0000",
       "golden_boreal_taiga": "2025-07-27 07:23:17 +0000",
@@ -114,6 +115,7 @@
       "maple_forest": "2025-07-27 06:31:02 +0000",
       "outback": "2025-07-27 06:38:29 +0000",
       "boreal_forest": "2025-07-27 06:52:57 +0000",
+      "towering_cliffs": "2025-07-28 03:03:11 +0000",
       "cold_river": "2025-07-28 01:16:34 +0000",
       "pine_slopes": "2025-07-27 08:47:25 +0000",
       "golden_boreal_taiga": "2025-07-27 07:23:17 +0000",
@@ -146,6 +148,7 @@
       "minecraft:frozen_ocean": "2025-07-28 00:54:53 +0000",
       "minecraft:desert": "2025-07-27 06:38:37 +0000",
       "minecraft:deep_frozen_ocean": "2025-07-28 00:53:40 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-07-28 03:03:02 +0000",
       "minecraft:plains": "2025-07-28 00:35:02 +0000"
     },
     "done": false
@@ -255,6 +258,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "larch_log": "2025-07-27 06:54:28 +0000",
+      "pine_log": "2025-07-28 03:04:01 +0000",
       "silver_birch_log": "2025-07-28 01:22:48 +0000",
       "maple_log": "2025-07-28 01:04:42 +0000"
     },
@@ -1773,6 +1777,7 @@
     "criteria": {
       "sweet_berries": "2025-07-27 07:03:23 +0000",
       "brown_mushroom": "2025-07-27 07:20:12 +0000",
+      "sugar_cane": "2025-07-28 02:53:48 +0000",
       "wheat": "2025-07-28 00:38:03 +0000"
     },
     "done": false
@@ -6533,81 +6538,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/prismoss": {
-    "criteria": {
-      "has_stone": "2025-07-28 02:23:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2025-07-28 02:28:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-07-28 02:23:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_ice_dragon": "2025-07-28 02:26:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-07-28 02:40:24 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/display_case": {
     "criteria": {
       "has_item_frame": "2025-07-28 02:22:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_helmet": {
-    "criteria": {
-      "has_item": "2025-07-28 02:28:54 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2025-07-28 02:28:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_helmet": {
-    "criteria": {
-      "has_item": "2025-07-28 02:47:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2025-07-28 02:28:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
-    "criteria": {
-      "has_dragonscales_sapphire": "2025-07-28 02:28:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-07-28 02:23:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
-    "criteria": {
-      "has_silver_ingot": "2025-07-28 02:47:20 +0000"
     },
     "done": true
   },
@@ -6617,21 +6550,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stonecutter": {
+  "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2025-07-28 02:23:03 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/bestiary": {
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
-      "has_item": "2025-07-28 02:47:04 +0000"
+      "has_stone": "2025-07-28 02:23:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
+  "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
-      "has_reeds": "2025-07-28 02:44:50 +0000"
+      "has_stone": "2025-07-28 02:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-28 02:23:03 +0000"
     },
     "done": true
   },
@@ -6653,27 +6592,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
-    "criteria": {
-      "has_silver_nugget": "2025-07-28 02:47:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-28 02:23:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-07-28 02:44:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-07-28 02:48:54 +0000"
     },
     "done": true
   },
@@ -6683,33 +6604,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_horn": {
-    "criteria": {
-      "has_item": "2025-07-28 02:28:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_stick": {
-    "criteria": {
-      "has_item": "2025-07-28 02:28:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-07-28 02:23:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_ice": {
-    "criteria": {
-      "has_item": "2025-07-28 02:29:19 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/orange_maple_shrub": {
-    "criteria": {
-      "has_orange_maple_sapling": "2025-07-28 02:41:25 +0000"
     },
     "done": true
   },
@@ -6731,12 +6628,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_flute": {
-    "criteria": {
-      "has_item": "2025-07-28 02:28:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-07-28 02:23:03 +0000"
@@ -6749,15 +6640,45 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_sapphire_boots": {
+  "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
-      "has_item": "2025-07-28 02:28:54 +0000"
+      "has_stone": "2025-07-28 02:23:03 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
-      "has_item": "2025-07-28 02:28:54 +0000"
+      "has_stone": "2025-07-28 02:23:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-07-28 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-07-28 02:28:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-07-28 02:28:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-07-28 02:28:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-07-28 02:28:42 +0000"
     },
     "done": true
   },
@@ -6773,15 +6694,129 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_leggings": {
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-07-28 02:28:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-07-28 02:28:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-07-28 02:28:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-28 02:28:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-07-28 02:28:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-07-28 02:28:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-07-28 02:28:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-07-28 02:28:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-07-28 02:28:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-07-28 02:28:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-28 02:28:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-07-28 02:28:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-07-28 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-28 02:40:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/orange_maple_shrub": {
+    "criteria": {
+      "has_orange_maple_sapling": "2025-07-28 02:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-28 02:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-28 02:44:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-07-28 02:47:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-07-28 02:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-07-28 02:47:16 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_hoe": {
+  "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
-      "has_item": "2025-07-28 02:28:42 +0000"
+      "has_item": "2025-07-28 02:47:16 +0000"
     },
     "done": true
   },
@@ -6797,21 +6832,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
+  "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
-      "has_smelts_to_glass": "2025-07-28 02:48:54 +0000"
+      "has_item": "2025-07-28 02:47:16 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_shovel": {
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
-      "has_item": "2025-07-28 02:28:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_leggings": {
-    "criteria": {
-      "has_item": "2025-07-28 02:28:54 +0000"
+      "has_silver_ingot": "2025-07-28 02:47:20 +0000"
     },
     "done": true
   },
@@ -6821,45 +6850,75 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_axe": {
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
-      "has_item": "2025-07-28 02:28:42 +0000"
+      "has_silver_nugget": "2025-07-28 02:47:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_stone": "2025-07-28 02:23:03 +0000"
+      "has_sand": "2025-07-28 02:48:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_chestplate": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_item": "2025-07-28 02:47:16 +0000"
+      "has_smelts_to_glass": "2025-07-28 02:48:54 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/planks": {
     "criteria": {
-      "has_item": "2025-07-28 02:28:42 +0000"
+      "has_log": "2025-07-28 02:58:05 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+  "tconstruct:recipes/tools/tools/building/sky_staff": {
     "criteria": {
-      "has_sapphire_gem": "2025-07-28 02:47:05 +0000"
+      "has_wood": "2025-07-28 02:58:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/log_to_wood": {
     "criteria": {
-      "has_stone": "2025-07-28 02:23:03 +0000"
+      "has_log": "2025-07-28 02:58:05 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_sword": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_item": "2025-07-28 02:28:42 +0000"
+      "has_azure_bluet": "2025-07-28 03:00:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-07-28 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2025-07-28 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_pine_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 03:04:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_hanging_sign": {
+    "criteria": {
+      "has_stripped_pine_log": "2025-07-28 03:04:10 +0000"
     },
     "done": true
   },

@@ -252,3 +252,10 @@
 [28Jul2025 02:38:47.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiniSalchi was slain by Crocodile
 [28Jul2025 02:39:20.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiniSalchi was slain by Crocodile
 [28Jul2025 02:47:17.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiniSalchi has reached the goal [Skyslime Island]
+[28Jul2025 02:59:10.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-289, y=61, z=2011} BlockPos{x=-289, y=62, z=2011}
+[28Jul2025 03:09:05.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AmateuS lost connection: Disconnected
+[28Jul2025 03:09:05.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS left the game
+[28Jul2025 03:09:19.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiniSalchi lost connection: Disconnected
+[28Jul2025 03:09:19.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiniSalchi left the game
+[28Jul2025 03:14:45.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AmateuS[/127.216.198.171:39987] logged in with entity id 94991 at (-192.69999998807907, 91.0, 2194.339861396275)
+[28Jul2025 03:14:45.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS joined the game
