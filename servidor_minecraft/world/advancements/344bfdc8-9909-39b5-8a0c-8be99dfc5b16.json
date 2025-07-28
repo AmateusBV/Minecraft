@@ -1188,6 +1188,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-28 06:05:54 +0000"
+    },
+    "done": false
+  },
   "expanded_combat:recipes/combat/iron_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-27 23:43:51 +0000"
@@ -2444,6 +2450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-28 05:59:56 +0000"
+    },
+    "done": true
+  },
   "ec_es_plugin:recipes/combat/silver_gauntlet_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 00:02:03 +0000"
@@ -2525,6 +2537,12 @@
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-07-27 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-28 06:01:01 +0000"
     },
     "done": true
   },
@@ -4416,6 +4434,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-07-28 05:59:56 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tools/common/slime/lead": {
     "criteria": {
       "has_slime_ball": "2025-07-28 03:07:43 +0000"
@@ -4755,6 +4779,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-28 06:01:01 +0000"
     },
     "done": true
   },
@@ -6389,6 +6419,12 @@
   "tconstruct:recipes/brewing/common/glass/vanilla/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-28 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-28 05:59:56 +0000"
     },
     "done": true
   },

@@ -14075,3 +14075,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [28Jul2025 05:57:51.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Teleported AmateuS to Peker]
 [28Jul2025 05:58:00.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jul2025 05:58:00.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 06:03:00.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 06:03:00.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 06:04:40.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has made the advancement [Nightmare Fuel]
+[28Jul2025 06:05:07.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=73, z=203} BlockPos{x=-68, y=70, z=203}
+[28Jul2025 06:05:46.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jackjaeger has reached the goal [Quaint Scribe]
+[28Jul2025 06:06:03.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker was slain by Invading Forlorn
+[28Jul2025 06:08:00.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 06:08:00.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 06:08:11.587] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[28Jul2025 06:09:48.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[28Jul2025 06:09:50.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=64, z=208} BlockPos{x=-72, y=63, z=208}
+[28Jul2025 06:11:56.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[28Jul2025 06:12:13.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2394ms or 47 ticks behind
+[28Jul2025 06:12:31.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2784ms or 55 ticks behind
+[28Jul2025 06:12:50.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[28Jul2025 06:13:09.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4543ms or 90 ticks behind
+[28Jul2025 06:13:15.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 06:13:15.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 06:13:27.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[28Jul2025 06:13:46.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3966ms or 79 ticks behind
+[28Jul2025 06:14:19.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh was slain by Invading Forlorn
+[28Jul2025 06:18:20.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 06:18:20.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

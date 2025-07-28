@@ -1760,7 +1760,8 @@
       "copper": "2025-07-27 07:17:04 +0000",
       "rose_gold": "2025-07-28 02:09:06 +0000",
       "bone": "2025-07-28 02:09:06 +0000",
-      "hepatizon": "2025-07-28 00:56:06 +0000"
+      "hepatizon": "2025-07-28 00:56:06 +0000",
+      "iron": "2025-07-28 06:06:37 +0000"
     },
     "done": false
   },
@@ -7976,6 +7977,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-07-28 06:11:09 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_cobble_slab_stonecutter": {
     "criteria": {
       "has_item": "2025-07-28 03:39:19 +0000"
@@ -8009,6 +8016,12 @@
   "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
       "has_pink_wool": "2025-07-28 04:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-28 06:04:22 +0000"
     },
     "done": true
   },
@@ -8159,6 +8172,7 @@
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
       "tough_binding": "2025-07-28 05:32:27 +0000",
+      "large_plate": "2025-07-28 06:10:07 +0000",
       "leggings_plating": "2025-07-28 05:19:29 +0000",
       "small_blade": "2025-07-28 05:20:17 +0000",
       "tool_binding": "2025-07-28 05:19:40 +0000",
@@ -8244,6 +8258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-28 06:11:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:24:05 +0000"
@@ -8289,6 +8309,12 @@
   "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-28 04:28:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-07-28 06:01:19 +0000"
     },
     "done": true
   },
@@ -8448,6 +8474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-28 06:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-28 03:39:01 +0000"
@@ -8565,6 +8597,12 @@
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-28 05:43:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2025-07-28 06:04:22 +0000"
     },
     "done": true
   },
@@ -8871,6 +8909,12 @@
   "mca:recipes/decorations/magenta_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-28 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-07-28 06:06:37 +0000"
     },
     "done": true
   },
