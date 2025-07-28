@@ -4223,7 +4223,8 @@
     "criteria": {
       "string": "2025-07-27 08:08:43 +0000",
       "rose_gold": "2025-07-27 08:08:43 +0000",
-      "bone": "2025-07-27 08:08:43 +0000"
+      "bone": "2025-07-27 08:08:43 +0000",
+      "iron": "2025-07-28 06:49:43 +0000"
     },
     "done": false
   },
@@ -7243,6 +7244,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "kama": "2025-07-28 06:49:43 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-07-28 05:12:10 +0000"
@@ -7651,6 +7658,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2025-07-28 06:46:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:10:51 +0000"
@@ -7684,6 +7697,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-28 05:52:38 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-07-28 06:49:43 +0000"
     },
     "done": true
   },

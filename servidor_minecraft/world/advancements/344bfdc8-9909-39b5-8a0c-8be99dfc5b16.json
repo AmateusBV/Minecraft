@@ -2132,6 +2132,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/oak_sapling_from_oak_shrub": {
+    "criteria": {
+      "has_oak_shrub": "2025-07-28 06:45:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-07-28 01:39:53 +0000"
@@ -4349,6 +4355,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-28 06:55:45 +0000",
       "minecraft:skeleton": "2025-07-28 05:20:30 +0000",
       "minecraft:spider": "2025-07-28 05:23:07 +0000",
       "minecraft:zombie": "2025-07-27 23:46:43 +0000",
@@ -4401,6 +4408,12 @@
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/orange_maple_sapling_from_orange_maple_shrub": {
+    "criteria": {
+      "has_orange_maple_shrub": "2025-07-28 06:47:49 +0000"
     },
     "done": true
   },
@@ -5722,6 +5735,12 @@
   "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-28 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:light_snack": {
+    "criteria": {
+      "earlight": "2025-07-28 06:49:41 +0000"
     },
     "done": true
   },

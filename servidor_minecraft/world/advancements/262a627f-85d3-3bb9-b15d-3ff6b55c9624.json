@@ -709,6 +709,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-28 06:39:51 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/birch_plank_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 05:58:19 +0000"

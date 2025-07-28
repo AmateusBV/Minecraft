@@ -289,6 +289,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-28 06:55:42 +0000",
       "minecraft:skeleton": "2025-07-27 06:53:27 +0000",
       "minecraft:spider": "2025-07-27 23:43:34 +0000",
       "minecraft:creeper": "2025-07-28 00:29:33 +0000",
@@ -1744,7 +1745,8 @@
   },
   "tconstruct:tools/tool_smith": {
     "criteria": {
-      "pickaxe": "2025-07-27 07:17:04 +0000"
+      "pickaxe": "2025-07-27 07:17:04 +0000",
+      "kama": "2025-07-28 06:49:11 +0000"
     },
     "done": false
   },
@@ -7778,6 +7780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 06:41:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/red_maple_sapling_from_red_maple_shrub": {
     "criteria": {
       "has_red_maple_shrub": "2025-07-28 04:58:46 +0000"
@@ -7806,6 +7814,18 @@
   "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-28 02:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-28 06:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 06:41:20 +0000"
     },
     "done": true
   },
@@ -7965,6 +7985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 06:41:20 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/chute_retextured": {
     "criteria": {
       "has_item": "2025-07-28 03:25:57 +0000"
@@ -8025,6 +8051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 06:41:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-28 05:43:09 +0000"
@@ -8064,6 +8096,12 @@
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_fancy_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-07-28 03:25:57 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/cobalt_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-07-28 06:41:25 +0000"
     },
     "done": true
   },
@@ -8325,6 +8363,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/slime/ichor/crystal_smelting": {
+    "criteria": {
+      "has_crystal": "2025-07-28 06:39:43 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-28 04:24:05 +0000"
@@ -8397,6 +8441,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/common/slime/ichor/crystal_block": {
+    "criteria": {
+      "has_item": "2025-07-28 06:39:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-28 04:28:17 +0000"
@@ -8421,6 +8471,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 06:41:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackstone_cluster": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 06:41:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-07-28 02:58:37 +0000"
@@ -8430,6 +8492,12 @@
   "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-28 02:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 06:41:20 +0000"
     },
     "done": true
   },
@@ -8496,6 +8564,12 @@
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-28 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 06:41:20 +0000"
     },
     "done": true
   },
@@ -8655,6 +8729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 06:41:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-28 03:39:01 +0000"
@@ -8670,6 +8750,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-07-28 05:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 06:41:20 +0000"
     },
     "done": true
   },
@@ -8769,6 +8855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 06:41:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-28 04:24:05 +0000"
@@ -8808,6 +8900,12 @@
   "mca:recipes/decorations/blue_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-28 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 06:41:20 +0000"
     },
     "done": true
   },
@@ -8934,6 +9032,12 @@
   "mca:recipes/decorations/light_blue_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-28 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 06:41:20 +0000"
     },
     "done": true
   },
@@ -9087,9 +9191,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 06:41:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-07-28 02:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 06:41:20 +0000"
     },
     "done": true
   },
@@ -9141,6 +9257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 06:41:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-07-28 04:15:42 +0000"
@@ -9174,6 +9296,12 @@
   "tconstruct:foundry/encyclopedia": {
     "criteria": {
       "crafted_book": "2025-07-28 06:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 06:41:20 +0000"
     },
     "done": true
   },
@@ -9240,6 +9368,12 @@
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
     "criteria": {
       "has_item": "2025-07-28 03:12:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/raw_cobalt_block_from_raws": {
+    "criteria": {
+      "has_item": "2025-07-28 06:41:25 +0000"
     },
     "done": true
   },
