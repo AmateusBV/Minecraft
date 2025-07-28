@@ -6947,6 +6947,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/tinker_station": {
+    "criteria": {
+      "has_item": "2025-07-28 07:32:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-07-28 04:18:58 +0000"
@@ -7039,6 +7045,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/tables/book_substitute": {
+    "criteria": {
+      "has_item": "2025-07-28 07:32:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-07-28 05:12:10 +0000"
@@ -7056,6 +7068,12 @@
       "lava_bucket": "2025-07-28 04:27:11 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2025-07-28 07:36:00 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/acacia/acacia_chest_boat_from_acacia_planks_woodcutting": {
     "criteria": {
@@ -7135,6 +7153,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-28 07:36:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-07-28 04:10:51 +0000"
@@ -7197,8 +7221,13 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
+      "tough_binding": "2025-07-28 07:36:30 +0000",
+      "large_plate": "2025-07-28 07:36:29 +0000",
+      "small_blade": "2025-07-28 07:33:35 +0000",
+      "tool_binding": "2025-07-28 07:33:12 +0000",
       "hammer_head": "2025-07-28 05:22:22 +0000",
-      "chestplate_plating": "2025-07-28 05:35:49 +0000"
+      "chestplate_plating": "2025-07-28 05:35:49 +0000",
+      "tool_handle": "2025-07-28 07:33:31 +0000"
     },
     "done": false
   },
@@ -7262,6 +7291,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-07-28 07:36:00 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/brimwood_wood": {
     "criteria": {
       "has_log": "2025-07-28 05:53:36 +0000"
@@ -7289,6 +7324,12 @@
   "mca:recipes/decorations/magenta_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/part_builder": {
+    "criteria": {
+      "has_item": "2025-07-28 07:32:37 +0000"
     },
     "done": true
   },
@@ -7478,6 +7519,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/slime/sky/slimeball_from_congealed": {
+    "criteria": {
+      "has_item": "2025-07-28 07:35:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-07-28 04:10:59 +0000"
@@ -7514,9 +7561,27 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-07-28 07:36:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2025-07-28 07:14:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-07-28 04:30:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials_and_you": {
+    "criteria": {
+      "has_item": "2025-07-28 07:32:37 +0000"
     },
     "done": true
   },
@@ -7544,9 +7609,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/tinkers_chest": {
+    "criteria": {
+      "has_item": "2025-07-28 07:32:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-07-28 05:12:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-28 07:36:00 +0000"
     },
     "done": true
   },
@@ -7652,6 +7729,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/crafting_station": {
+    "criteria": {
+      "has_item": "2025-07-28 07:32:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/chest_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:10:59 +0000"
@@ -7661,6 +7744,12 @@
   "tconstruct:tools/make_part": {
     "criteria": {
       "crafted_part": "2025-07-28 06:46:31 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/part_chest": {
+    "criteria": {
+      "has_item": "2025-07-28 07:32:37 +0000"
     },
     "done": true
   },
@@ -7820,6 +7909,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-07-28 07:36:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-07-28 05:12:10 +0000"
@@ -7904,9 +7999,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/crafting_station_from_logs": {
+    "criteria": {
+      "has_item": "2025-07-28 07:32:37 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_light_gray_wool": "2025-07-28 06:34:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-28 07:36:00 +0000"
     },
     "done": true
   },

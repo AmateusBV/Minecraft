@@ -3050,6 +3050,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "kama": "2025-07-28 07:12:47 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-07-28 05:42:35 +0000"
@@ -3458,6 +3464,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-07-28 07:12:47 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-27 23:43:51 +0000"
@@ -3469,6 +3481,12 @@
       "has_item": "2025-07-27 23:43:51 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "iron": "2025-07-28 07:12:47 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
@@ -4116,6 +4134,12 @@
   "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 00:01:51 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_large": {
+    "criteria": {
+      "has_medium_backpack": "2025-07-28 07:45:47 +0000"
     },
     "done": true
   },
@@ -5423,6 +5447,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-28 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-07-28 07:12:47 +0000"
     },
     "done": true
   },

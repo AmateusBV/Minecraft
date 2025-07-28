@@ -372,3 +372,16 @@
 [28Jul2025 06:49:41.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has made the advancement [Light Snack]
 [28Jul2025 06:55:42.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh has made the advancement [Voluntary Exile]
 [28Jul2025 07:03:46.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh has made the advancement [Junior Summoner]
+[28Jul2025 07:10:36.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh has made the advancement [Cover Me with Diamonds]
+[28Jul2025 07:11:35.185] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jul2025 07:18:26.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jackjaeger has made the advancement [Tools of the Trade]
+[28Jul2025 07:21:59.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh has made the advancement [Who is Cutting Onions?]
+[28Jul2025 07:23:57.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jackjaeger has made the advancement [Getting an Upgrade]
+[28Jul2025 07:24:01.812] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=382, y=0, z=2347}
+[28Jul2025 07:24:47.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jackjaeger has made the advancement [False Water]
+[28Jul2025 07:28:02.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh has made the advancement [Pic-A-Nic Basket?]
+[28Jul2025 07:35:08.088] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jul2025 07:35:08.088] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jul2025 07:40:55.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-210, y=66, z=1993} BlockPos{x=-211, y=68, z=1994}
+[28Jul2025 07:40:55.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-210, y=66, z=1993} BlockPos{x=-211, y=68, z=1994}
+[28Jul2025 07:40:55.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-210, y=66, z=1994} BlockPos{x=-211, y=68, z=1995}

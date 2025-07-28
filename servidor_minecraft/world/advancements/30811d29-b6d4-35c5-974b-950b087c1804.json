@@ -92,38 +92,46 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2025-07-28 00:15:51 +0000",
+      "shrubland": "2025-07-28 07:34:12 +0000",
       "fen": "2025-07-28 04:25:23 +0000",
       "muddy_river": "2025-07-27 07:30:02 +0000",
       "autumnal_maple_forest": "2025-07-28 00:15:52 +0000",
       "mycotoxic_undergrowth": "2025-07-28 05:08:23 +0000",
       "ochard": "2025-07-28 01:14:27 +0000",
       "maple_forest": "2025-07-27 06:47:39 +0000",
+      "magnolia_highlands": "2025-07-28 07:20:15 +0000",
       "mountains": "2025-07-27 23:40:17 +0000",
       "boreal_forest": "2025-07-27 06:48:43 +0000",
       "blackstone_basin": "2025-07-28 05:49:05 +0000",
       "towering_cliffs": "2025-07-28 04:16:21 +0000",
+      "temperate_grove": "2025-07-28 07:35:43 +0000",
       "cold_river": "2025-07-28 02:17:56 +0000",
       "pumpkin_fields": "2025-07-28 04:53:46 +0000",
       "pine_slopes": "2025-07-27 08:45:07 +0000",
-      "golden_boreal_taiga": "2025-07-27 08:50:25 +0000"
+      "golden_boreal_taiga": "2025-07-27 08:50:25 +0000",
+      "lupine_plains": "2025-07-28 07:24:38 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2025-07-28 00:15:51 +0000",
+      "shrubland": "2025-07-28 07:34:12 +0000",
       "fen": "2025-07-28 04:25:23 +0000",
       "muddy_river": "2025-07-27 07:30:02 +0000",
       "autumnal_maple_forest": "2025-07-28 00:15:52 +0000",
       "ochard": "2025-07-28 01:14:27 +0000",
       "maple_forest": "2025-07-27 06:47:39 +0000",
+      "magnolia_highlands": "2025-07-28 07:20:15 +0000",
       "mountains": "2025-07-27 23:40:17 +0000",
       "boreal_forest": "2025-07-27 06:48:43 +0000",
       "towering_cliffs": "2025-07-28 04:16:21 +0000",
+      "temperate_grove": "2025-07-28 07:35:43 +0000",
       "cold_river": "2025-07-28 02:17:56 +0000",
       "pumpkin_fields": "2025-07-28 04:53:46 +0000",
       "pine_slopes": "2025-07-27 08:45:07 +0000",
-      "golden_boreal_taiga": "2025-07-27 08:50:25 +0000"
+      "golden_boreal_taiga": "2025-07-27 08:50:25 +0000",
+      "lupine_plains": "2025-07-28 07:24:38 +0000"
     },
     "done": false
   },
@@ -143,6 +151,7 @@
     "criteria": {
       "minecraft:taiga": "2025-07-27 06:51:46 +0000",
       "minecraft:sunflower_plains": "2025-07-28 01:14:59 +0000",
+      "minecraft:beach": "2025-07-28 07:30:45 +0000",
       "minecraft:river": "2025-07-27 08:38:26 +0000",
       "minecraft:stony_shore": "2025-07-27 06:50:18 +0000",
       "minecraft:grove": "2025-07-28 00:48:29 +0000",
@@ -150,6 +159,7 @@
       "minecraft:cold_ocean": "2025-07-27 06:50:49 +0000",
       "minecraft:forest": "2025-07-27 23:20:41 +0000",
       "minecraft:deep_cold_ocean": "2025-07-28 01:00:49 +0000",
+      "minecraft:flower_forest": "2025-07-28 07:37:45 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-28 04:16:09 +0000",
       "minecraft:plains": "2025-07-28 00:34:55 +0000"
     },
@@ -335,7 +345,9 @@
       "willow_log": "2025-07-28 07:07:18 +0000",
       "yellow_bioshroom_stem": "2025-07-28 05:42:07 +0000",
       "larch_log": "2025-07-27 06:54:24 +0000",
+      "pine_log": "2025-07-28 07:09:28 +0000",
       "silver_birch_log": "2025-07-28 01:33:59 +0000",
+      "dead_log": "2025-07-28 07:09:51 +0000",
       "maple_log": "2025-07-28 00:54:37 +0000"
     },
     "done": false
@@ -7723,9 +7735,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-07-28 07:09:28 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/puny_smelting": {
     "criteria": {
       "has_item": "2025-07-28 03:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_pressure_plate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
     },
     "done": true
   },
@@ -7753,6 +7777,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-28 07:17:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-07-28 07:22:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2025-07-28 07:18:09 +0000"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/melter": {
     "criteria": {
       "seared_heater": "2025-07-28 03:25:26 +0000",
@@ -7760,6 +7802,12 @@
       "seared_table": "2025-07-28 03:48:47 +0000",
       "seared_faucet": "2025-07-28 03:34:54 +0000",
       "seared_melter": "2025-07-28 03:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_fence_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
     },
     "done": true
   },
@@ -7793,6 +7841,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-07-28 07:22:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2025-07-28 05:08:23 +0000",
@@ -7803,6 +7857,12 @@
   "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-28 02:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-07-28 07:10:36 +0000"
     },
     "done": true
   },
@@ -7908,6 +7968,18 @@
     },
     "done": true
   },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_shipwreck": "2025-07-28 07:30:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_trapdoor_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-28 05:43:09 +0000"
@@ -7920,6 +7992,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/polished_willow_fence_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2025-07-28 07:18:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:24:05 +0000"
@@ -7929,6 +8013,12 @@
   "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:30:54 +0000"
     },
     "done": true
   },
@@ -7980,6 +8070,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/dead_fence_gate": {
+    "criteria": {
+      "has_dead_planks": "2025-07-28 07:09:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-07-28 02:27:05 +0000"
@@ -7998,9 +8094,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-28 07:17:05 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/chute_retextured": {
     "criteria": {
       "has_item": "2025-07-28 03:25:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2025-07-28 07:18:09 +0000"
     },
     "done": true
   },
@@ -8046,9 +8154,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/dead_sign": {
+    "criteria": {
+      "has_dead_planks": "2025-07-28 07:09:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2025-07-28 07:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_stairs_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-28 07:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
       "has_pink_wool": "2025-07-28 04:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_planks_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
     },
     "done": true
   },
@@ -8061,6 +8199,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-28 06:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_door_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
     },
     "done": true
   },
@@ -8088,9 +8232,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-28 07:17:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-28 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_fence_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
     },
     "done": true
   },
@@ -8160,9 +8316,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-07-28 07:12:52 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2025-07-28 07:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-28 07:21:59 +0000"
     },
     "done": true
   },
@@ -8190,6 +8358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/polished_willow_door_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/ingot_gauge": {
     "criteria": {
       "has_item": "2025-07-28 03:16:11 +0000"
@@ -8211,6 +8385,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-07-28 05:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_connected_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
     },
     "done": true
   },
@@ -8243,6 +8423,30 @@
       "ingot": "2025-07-28 06:27:45 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_chest_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-07-28 07:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_trapdoor_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_sign_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -8280,15 +8484,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/willow_planks_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-28 02:56:00 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2025-07-28 07:09:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2025-07-28 07:18:09 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_slab": {
     "criteria": {
       "has_item": "2025-07-28 03:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_connected_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:12 +0000"
     },
     "done": true
   },
@@ -8316,9 +8544,28 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:30:54 +0000",
+      "has_block": "2025-07-28 07:30:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dead_fence": {
+    "criteria": {
+      "has_dead_planks": "2025-07-28 07:09:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-07-28 06:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_connected_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
     },
     "done": true
   },
@@ -8370,15 +8617,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/dead_button": {
+    "criteria": {
+      "has_dead_planks": "2025-07-28 07:09:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-07-28 05:24:27 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2025-07-28 07:18:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/dead_door": {
+    "criteria": {
+      "has_dead_planks": "2025-07-28 07:09:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-28 04:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-28 07:17:05 +0000"
     },
     "done": true
   },
@@ -8394,6 +8665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/willow_fence_gate_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-28 04:24:05 +0000"
@@ -8406,15 +8683,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2025-07-28 07:18:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-07-28 05:40:49 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 07:09:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-28 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-28 07:22:41 +0000"
     },
     "done": true
   },
@@ -8436,9 +8731,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/polished_willow_slab_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-28 04:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-28 07:21:59 +0000"
     },
     "done": true
   },
@@ -8448,15 +8755,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/polished_willow_button_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_stairs_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-07-28 07:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_slab_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_glass": {
     "criteria": {
       "has_item": "2025-07-28 03:16:11 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/polished_willow_trapdoor_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-28 04:28:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dead_branch_from_dead_log": {
+    "criteria": {
+      "has_log": "2025-07-28 07:09:51 +0000"
     },
     "done": true
   },
@@ -8520,6 +8863,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/polished_willow_chest_boat_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-28 06:41:20 +0000"
@@ -8550,9 +8899,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/willow_stairs_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-28 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 07:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
     },
     "done": true
   },
@@ -8565,6 +8932,12 @@
   "regions_unexplored:recipes/building_blocks/willow_slab": {
     "criteria": {
       "has_willow_planks": "2025-07-28 07:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_chest_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
     },
     "done": true
   },
@@ -8598,6 +8971,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/dead_trapdoor": {
+    "criteria": {
+      "has_dead_planks": "2025-07-28 07:09:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-28 06:41:20 +0000"
@@ -8628,9 +9007,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/crafting_table_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-07-28 04:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_layered_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
     },
     "done": true
   },
@@ -8643,6 +9034,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-07-28 05:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_pressure_plate_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
     },
     "done": true
   },
@@ -8700,6 +9097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/polished_willow_planks_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-07-28 04:28:17 +0000"
@@ -8712,6 +9115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-28 07:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2025-07-28 05:37:55 +0000"
@@ -8721,6 +9130,12 @@
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-28 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pillar_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
     },
     "done": true
   },
@@ -8772,6 +9187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/polished_willow_fence_gate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-28 03:39:01 +0000"
@@ -8793,6 +9214,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-07-28 05:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_planks_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:12 +0000"
     },
     "done": true
   },
@@ -8862,6 +9289,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/barrel_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_connected_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_chest_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/smeltery/seared/lantern": {
     "criteria": {
       "has_item": "2025-07-28 03:16:11 +0000"
@@ -8892,6 +9337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pillar_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-28 06:41:20 +0000"
@@ -8916,6 +9367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-28 07:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-28 04:28:17 +0000"
@@ -8931,6 +9388,18 @@
   "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_button_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/crafting_table_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
     },
     "done": true
   },
@@ -9006,6 +9475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/willow_door_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink": {
     "criteria": {
       "has_pink_wool": "2025-07-28 04:15:42 +0000"
@@ -9018,9 +9493,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/barrel_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_connected_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_chest_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
     },
     "done": true
   },
@@ -9033,6 +9526,12 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-28 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/stripped_willow_log_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:12 +0000"
     },
     "done": true
   },
@@ -9054,9 +9553,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/willow_boat_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-28 07:22:41 +0000"
     },
     "done": true
   },
@@ -9069,6 +9580,12 @@
   "mca:recipes/decorations/light_blue_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-28 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_slab_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
     },
     "done": true
   },
@@ -9096,6 +9613,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-28 07:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-28 07:22:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/willow_sign": {
     "criteria": {
       "has_willow_planks": "2025-07-28 07:07:58 +0000"
@@ -9105,6 +9634,18 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-07-28 02:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pressure_plate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_button_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
     },
     "done": true
   },
@@ -9138,9 +9679,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/dead_stairs": {
+    "criteria": {
+      "has_dead_planks": "2025-07-28 07:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-28 07:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-28 07:17:05 +0000"
     },
     "done": true
   },
@@ -9156,9 +9715,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_lupine": {
+    "criteria": {
+      "has_blue_lupine": "2025-07-28 07:24:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-28 04:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-28 07:17:05 +0000"
     },
     "done": true
   },
@@ -9180,6 +9751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/polished_willow_sign_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:light_snack": {
     "criteria": {
       "earlight": "2025-07-28 06:31:54 +0000"
@@ -9189,6 +9766,12 @@
   "tconstruct:recipes/redstone/smeltery/seared/seared_casting_tank": {
     "criteria": {
       "has_item": "2025-07-28 03:16:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2025-07-28 07:18:09 +0000"
     },
     "done": true
   },
@@ -9216,6 +9799,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/willow_connected_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2025-07-28 07:12:52 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/faucet": {
     "criteria": {
       "has_item": "2025-07-28 03:16:11 +0000"
@@ -9228,6 +9823,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/willow_fence_gate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_boat_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_sign_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/yellow_bioshroom_door": {
     "criteria": {
       "has_yellow_bioshroom_planks": "2025-07-28 05:44:18 +0000"
@@ -9237,6 +9850,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-07-28 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-28 07:22:41 +0000"
     },
     "done": true
   },
@@ -9336,6 +9955,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/willow_door_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2025-07-28 07:18:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-07-28 04:15:42 +0000"
@@ -9351,6 +9988,18 @@
   "regions_unexplored:recipes/redstone/yellow_bioshroom_button": {
     "criteria": {
       "has_yellow_bioshroom_planks": "2025-07-28 05:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_stairs_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_planks_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
     },
     "done": true
   },
@@ -9378,6 +10027,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/dead_pressure_plate": {
+    "criteria": {
+      "has_dead_planks": "2025-07-28 07:09:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-07-28 06:41:20 +0000"
@@ -9396,9 +10051,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/polished_willow_sign_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/duct_retextured": {
     "criteria": {
       "has_item": "2025-07-28 03:25:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/dead_slab": {
+    "criteria": {
+      "has_dead_planks": "2025-07-28 07:09:56 +0000"
     },
     "done": true
   },
@@ -9423,6 +10090,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-28 05:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_layered_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:12 +0000"
     },
     "done": true
   },
@@ -9468,15 +10141,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pillar_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:12 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/lime_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-28 04:24:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/polished_willow_fence_gate_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-07-28 02:53:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2025-07-28 07:09:51 +0000"
     },
     "done": true
   },
@@ -9510,6 +10201,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/willow_button_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_chest_boat_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-28 02:56:00 +0000"
@@ -9519,6 +10222,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-28 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pressure_plate_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
     },
     "done": true
   },
@@ -9555,6 +10264,24 @@
   "tconstruct:recipes/redstone/smeltery/seared/chute": {
     "criteria": {
       "has_item": "2025-07-28 03:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_fence_from_willow_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_layered_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_trapdoor_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 07:15:16 +0000"
     },
     "done": true
   },
