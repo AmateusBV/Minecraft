@@ -6928,15 +6928,39 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-07-28 03:49:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_leggings": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 03:49:17 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:hatman": {
     "criteria": {
       "hatman_0": "2025-07-28 03:29:49 +0000"
     },
     "done": false
   },
+  "iceandfire:recipes/combat/armor_silver_metal_boots": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 03:49:18 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:explosive_temper": {
     "criteria": {
       "explosive_temper_0": "2025-07-28 03:29:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 03:49:14 +0000"
     },
     "done": true
   },

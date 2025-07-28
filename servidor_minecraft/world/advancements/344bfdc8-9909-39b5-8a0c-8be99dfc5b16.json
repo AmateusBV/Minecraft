@@ -2774,6 +2774,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-07-28 03:45:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-28 02:00:27 +0000"
@@ -3192,6 +3198,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-28 00:26:42 +0000",
       "cooked_mutton": "2025-07-28 03:04:34 +0000",
+      "sweet_berries": "2025-07-28 03:44:12 +0000",
       "cooked_beef": "2025-07-28 01:41:20 +0000",
       "porkchop": "2025-07-28 00:49:23 +0000",
       "apple": "2025-07-28 02:57:28 +0000",
@@ -3817,6 +3824,12 @@
       "has_gold_ingot": "2025-07-27 23:43:38 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2025-07-28 03:46:36 +0000"
+    },
+    "done": false
   },
   "expanded_combat:recipes/combat/birch_plank_scythe_conditional_shaped": {
     "criteria": {

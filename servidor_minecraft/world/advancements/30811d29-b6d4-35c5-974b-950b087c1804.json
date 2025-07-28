@@ -7722,10 +7722,11 @@
     "criteria": {
       "seared_heater": "2025-07-28 03:25:26 +0000",
       "seared_basin": "2025-07-28 03:34:50 +0000",
+      "seared_table": "2025-07-28 03:48:47 +0000",
       "seared_faucet": "2025-07-28 03:34:54 +0000",
       "seared_melter": "2025-07-28 03:34:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_cobble_wall": {
     "criteria": {
@@ -7952,6 +7953,18 @@
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stairs": {
     "criteria": {
       "has_item": "2025-07-28 03:25:57 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-07-28 03:43:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/seared_glass_pane": {
+    "criteria": {
+      "has_item": "2025-07-28 03:43:03 +0000"
     },
     "done": true
   },
