@@ -398,3 +398,7 @@
 [28Jul2025 08:27:30.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=50, z=294} BlockPos{x=-138, y=48, z=294}
 [28Jul2025 08:28:12.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-50, y=48, z=294} BlockPos{x=-43, y=45, z=294}
 [28Jul2025 08:28:13.005] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-50, y=48, z=294} BlockPos{x=-43, y=45, z=294}
+[28Jul2025 08:38:17.261] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Jul2025 08:42:37.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jackjaeger has reached the goal [Arachnophobe's Nightmare]
+[28Jul2025 08:42:39.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh has reached the goal [Advanced Tool Making]
+[28Jul2025 08:45:51.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has made the advancement [The Wind Darkening]

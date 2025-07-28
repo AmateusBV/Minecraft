@@ -5889,6 +5889,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-07-28 08:45:51 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-27 23:43:51 +0000"
