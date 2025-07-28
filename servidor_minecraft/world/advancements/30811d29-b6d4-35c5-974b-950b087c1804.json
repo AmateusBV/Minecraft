@@ -8265,6 +8265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-28 06:36:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:24:05 +0000"
@@ -8490,6 +8496,18 @@
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-28 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-28 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/sky/crystal_smelting": {
+    "criteria": {
+      "has_crystal": "2025-07-28 06:37:13 +0000"
     },
     "done": true
   },
@@ -8883,6 +8901,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/common/slime/sky/crystal_block": {
+    "criteria": {
+      "has_item": "2025-07-28 06:37:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-07-28 02:53:11 +0000"
@@ -8997,6 +9021,12 @@
     },
     "done": true
   },
+  "regions_unexplored:light_snack": {
+    "criteria": {
+      "earlight": "2025-07-28 06:31:54 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/seared_casting_tank": {
     "criteria": {
       "has_item": "2025-07-28 03:16:11 +0000"
@@ -9042,6 +9072,12 @@
   "regions_unexplored:recipes/redstone/yellow_bioshroom_door": {
     "criteria": {
       "has_yellow_bioshroom_planks": "2025-07-28 05:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-28 06:36:10 +0000"
     },
     "done": true
   },
