@@ -142,6 +142,7 @@
       "minecraft:river": "2025-07-27 08:38:14 +0000",
       "minecraft:stony_shore": "2025-07-27 06:55:19 +0000",
       "minecraft:grove": "2025-07-28 00:47:30 +0000",
+      "minecraft:swamp": "2025-07-28 04:20:43 +0000",
       "minecraft:cold_ocean": "2025-07-27 06:57:54 +0000",
       "minecraft:forest": "2025-07-28 00:36:50 +0000",
       "minecraft:deep_cold_ocean": "2025-07-28 00:53:36 +0000",
@@ -1808,6 +1809,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-28 04:08:12 +0000",
       "minecraft:skeleton": "2025-07-27 23:34:55 +0000",
       "minecraft:zombie": "2025-07-27 07:06:57 +0000",
       "minecraft:zombie_villager": "2025-07-28 04:01:50 +0000"
@@ -6923,9 +6925,63 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-28 04:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-28 04:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-07-28 03:58:32 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_chest_boat_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-07-28 04:10:59 +0000"
     },
     "done": true
   },
@@ -6935,9 +6991,147 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 04:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/crafting_table_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/stripped_acacia_log_from_acacia_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:10:51 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_door_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/structure": {
     "criteria": {
       "open_smeltery": "2025-07-28 03:49:54 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_fence_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-07-28 04:10:51 +0000"
     },
     "done": true
   },
@@ -6947,15 +7141,141 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
+    "criteria": {
+      "has_log": "2025-07-28 04:10:51 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_trapdoor_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_pressure_plate_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:hatman": {
     "criteria": {
       "hatman_0": "2025-07-28 03:29:49 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_stairs_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_sign_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/chest_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:10:51 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_metal_boots": {
     "criteria": {
       "has_the_recipe": "2025-07-28 03:49:18 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_slab_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:10:59 +0000"
     },
     "done": true
   },
@@ -6965,9 +7285,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/barrel_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-07-28 03:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_fence_gate_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_button_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_boat_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 04:10:59 +0000"
     },
     "done": true
   },
