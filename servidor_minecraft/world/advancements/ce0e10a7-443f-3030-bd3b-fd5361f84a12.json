@@ -1821,6 +1821,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-28 04:08:12 +0000",
       "minecraft:skeleton": "2025-07-27 23:34:55 +0000",
+      "minecraft:creeper": "2025-07-28 05:39:40 +0000",
       "minecraft:zombie": "2025-07-27 07:06:57 +0000",
       "minecraft:drowned": "2025-07-28 04:22:58 +0000",
       "minecraft:zombie_villager": "2025-07-28 04:01:50 +0000"
@@ -7112,9 +7113,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-07-28 05:37:45 +0000"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
-      "hammer_head": "2025-07-28 05:22:22 +0000"
+      "hammer_head": "2025-07-28 05:22:22 +0000",
+      "chestplate_plating": "2025-07-28 05:35:49 +0000"
     },
     "done": false
   },
@@ -7286,6 +7294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 05:33:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/yellow_bioshroom_fence": {
     "criteria": {
       "has_yellow_bioshroom_planks": "2025-07-28 05:07:19 +0000"
@@ -7346,6 +7360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_log_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 05:33:01 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-28 04:10:59 +0000"
@@ -7355,6 +7375,18 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-07-28 04:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-07-28 05:37:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-07-28 05:33:01 +0000"
     },
     "done": true
   },
@@ -7562,6 +7594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-28 05:33:01 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/gadgets/shuriken/quartz_shuriken": {
     "criteria": {
       "has_item": "2025-07-28 05:12:10 +0000"
@@ -7595,6 +7633,12 @@
   "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-07-28 03:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 05:33:01 +0000"
     },
     "done": true
   },
