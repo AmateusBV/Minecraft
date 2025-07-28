@@ -317,6 +317,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "larch_log": "2025-07-27 06:54:24 +0000",
+      "silver_birch_log": "2025-07-28 01:33:59 +0000",
       "maple_log": "2025-07-28 00:54:37 +0000"
     },
     "done": false
@@ -4505,6 +4506,18 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_gate_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
     "criteria": {
       "has_log": "2025-07-28 00:34:21 +0000"
@@ -4523,9 +4536,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_slab_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-07-28 01:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 01:56:32 +0000"
     },
     "done": true
   },
@@ -4544,6 +4575,12 @@
   "expanded_combat:recipes/combat/birch_plank_battle_staff_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 01:22:43 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-28 01:56:38 +0000"
     },
     "done": true
   },
@@ -4595,15 +4632,33 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/jungle_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-27 23:42:42 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_hanging_sign": {
+    "criteria": {
+      "has_stripped_maple_log": "2025-07-28 01:46:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-27 23:35:38 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-28 01:56:38 +0000"
     },
     "done": true
   },
@@ -4637,6 +4692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/stripped_mangrove_log_from_mangrove_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
     "criteria": {
       "has_log": "2025-07-28 00:54:37 +0000"
@@ -4646,6 +4707,12 @@
   "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-07-28 00:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:40 +0000"
     },
     "done": true
   },
@@ -4661,9 +4728,39 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/lime_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_trapdoor_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-28 01:49:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-07-28 02:01:35 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-27 23:35:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:42 +0000"
     },
     "done": true
   },
@@ -4673,15 +4770,51 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
+    "criteria": {
+      "has_log": "2025-07-28 01:33:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-27 23:35:38 +0000"
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-28 00:04:27 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:42 +0000"
     },
     "done": true
   },
@@ -4703,6 +4836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/birch_plank_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 01:22:43 +0000"
@@ -4715,15 +4854,51 @@
     },
     "done": false
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_chest_boat_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-07-28 00:35:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-28 01:33:59 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:40 +0000"
     },
     "done": true
   },
@@ -4739,6 +4914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/birch_plank_mace_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 01:22:43 +0000"
@@ -4751,15 +4932,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_blue_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-28 01:22:43 +0000"
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/gray_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-28 01:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:38 +0000"
     },
     "done": true
   },
@@ -4775,9 +4974,27 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/jungle_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 01:22:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2025-07-28 01:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:42 +0000"
     },
     "done": true
   },
@@ -4799,9 +5016,21 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/jungle_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-07-28 00:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/crafting_table_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:40 +0000"
     },
     "done": true
   },
@@ -4817,9 +5046,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/crafting_table_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-07-28 00:55:52 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:40 +0000"
     },
     "done": true
   },
@@ -4835,6 +5094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_chest_boat_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-28 00:04:27 +0000"
@@ -4844,6 +5109,12 @@
   "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 01:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:40 +0000"
     },
     "done": true
   },
@@ -4859,6 +5130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_button_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 01:22:43 +0000"
@@ -4871,9 +5148,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
   "tconstruct:world/sky_island": {
     "criteria": {
       "found_island": "2025-07-27 23:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:38 +0000"
     },
     "done": true
   },
@@ -4886,6 +5181,30 @@
   "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-07-28 02:01:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/barrel_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:38 +0000"
     },
     "done": true
   },
@@ -4907,9 +5226,33 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/mangrove_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-28 00:04:27 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/barrel_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_fence_gate_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:38 +0000"
     },
     "done": true
   },
@@ -4943,9 +5286,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/brown_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_gray_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-28 01:22:43 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:38 +0000"
     },
     "done": true
   },
@@ -4955,9 +5310,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_trapdoor_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-28 01:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_door_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:40 +0000"
     },
     "done": true
   },
@@ -4967,9 +5334,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_fence_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-28 01:56:38 +0000"
     },
     "done": true
   },
@@ -4982,6 +5361,24 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-07-28 01:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_slab_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_fence_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:40 +0000"
     },
     "done": true
   },
@@ -5003,15 +5400,45 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/birch_plank_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 01:22:43 +0000"
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
     "criteria": {
       "anger_wizard": "2025-07-28 00:20:32 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:40 +0000"
     },
     "done": true
   },
@@ -5033,9 +5460,39 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/mangrove_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tools/tools/building/sky_staff": {
     "criteria": {
       "has_wood": "2025-07-27 23:57:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/mangrove_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/crafting_table_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:42 +0000"
     },
     "done": true
   },
@@ -5051,9 +5508,99 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/red_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 01:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_boat_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-07-28 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-28 01:56:38 +0000"
     },
     "done": true
   },
@@ -5063,9 +5610,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_pressure_plate_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/flint": {
     "criteria": {
       "has_item": "2025-07-28 00:04:27 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-28 01:56:38 +0000"
     },
     "done": true
   },
@@ -5093,9 +5664,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/red_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/slime/sky/slimeball_from_congealed": {
     "criteria": {
       "has_item": "2025-07-27 23:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:40 +0000"
     },
     "done": true
   },
@@ -5117,6 +5700,30 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/mangrove_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_trapdoor_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_pressure_plate_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 01:22:43 +0000"
@@ -5129,6 +5736,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/black_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-28 00:04:27 +0000"
@@ -5138,6 +5751,12 @@
   "tconstruct:recipes/misc/common/tinkers_gadgetry": {
     "criteria": {
       "has_item": "2025-07-27 23:41:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/orange_maple_shrub": {
+    "criteria": {
+      "has_orange_maple_sapling": "2025-07-28 01:41:19 +0000"
     },
     "done": true
   },
@@ -5171,6 +5790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-07-27 23:27:40 +0000"
@@ -5189,15 +5814,45 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/orange_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
     "criteria": {
       "has_white_trillium": "2025-07-28 01:18:52 +0000"
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-28 01:22:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/orange_maple_sapling_from_orange_maple_shrub": {
+    "criteria": {
+      "has_orange_maple_shrub": "2025-07-28 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-28 01:56:42 +0000"
     },
     "done": true
   },
@@ -5225,9 +5880,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/stripped_jungle_log_from_jungle_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/birch_plank_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 01:22:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_maple_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 01:46:34 +0000"
     },
     "done": true
   },
@@ -5255,9 +5934,39 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/jungle_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_stairs_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/chest_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-28 00:04:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/silver_birch_shrub": {
+    "criteria": {
+      "has_silver_birch_sapling": "2025-07-28 01:46:39 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 01:56:40 +0000"
     },
     "done": true
   },
@@ -5273,9 +5982,27 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-28 00:21:47 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:38 +0000"
     },
     "done": true
   },
@@ -5285,11 +6012,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "tconstruct:world/ancient_tools": {
     "criteria": {
       "melting_pan": "2025-07-28 00:56:06 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_sign_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_door_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
@@ -5303,9 +6048,33 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-28 01:22:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mangrove_branch_from_mangrove_log": {
+    "criteria": {
+      "has_log": "2025-07-28 01:56:34 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:42 +0000"
     },
     "done": true
   },
@@ -5321,6 +6090,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_sign_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2025-07-27 23:27:40 +0000"
@@ -5330,6 +6105,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-28 01:56:42 +0000"
     },
     "done": true
   },
@@ -5345,15 +6126,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/chest_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_sign_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/red_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-28 01:22:43 +0000"
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/mangrove_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 00:31:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_stairs_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:42 +0000"
     },
     "done": true
   },
@@ -5381,6 +6204,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_button_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-28 01:22:43 +0000"
@@ -5390,6 +6231,12 @@
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-07-28 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-28 01:56:42 +0000"
     },
     "done": true
   },
@@ -5417,6 +6264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_door_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-28 00:04:27 +0000"
@@ -5426,6 +6279,12 @@
   "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 01:56:40 +0000"
     },
     "done": true
   },
@@ -5453,6 +6312,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2025-07-27 23:27:40 +0000"
@@ -5462,6 +6333,12 @@
   "minecraft:recipes/woodcutting/birch/chest_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 01:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_slab_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:40 +0000"
     },
     "done": true
   },
@@ -5483,6 +6360,18 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/mangrove_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-07-28 00:35:05 +0000"
@@ -5501,6 +6390,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_stairs_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_planks_from_mangrove_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:34 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-07-28 00:04:27 +0000"
@@ -5513,9 +6438,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
     "criteria": {
       "has_item": "2025-07-27 23:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/barrel_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-07-28 01:56:32 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-28 01:56:42 +0000"
     },
     "done": true
   },
@@ -5537,9 +6498,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_fence_gate_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:38 +0000"
     },
     "done": true
   },
@@ -5555,9 +6552,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_boat_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 01:56:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_button_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/red_maple_shrub": {
+    "criteria": {
+      "has_red_maple_sapling": "2025-07-28 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:38 +0000"
     },
     "done": true
   },
@@ -5585,6 +6618,18 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_blue_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/jungle_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-07-27 23:27:40 +0000"
@@ -5609,6 +6654,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-07-28 00:55:59 +0000"
@@ -5618,6 +6669,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-28 00:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_pressure_plate_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:42 +0000"
     },
     "done": true
   },
@@ -5639,6 +6696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_boat_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-07-28 01:15:27 +0000"
@@ -5651,15 +6714,51 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/white_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-28 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 01:56:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-07-27 23:27:40 +0000"
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/mangrove_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-07-27 23:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_chest_boat_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/chest_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 01:56:42 +0000"
     },
     "done": true
   },
