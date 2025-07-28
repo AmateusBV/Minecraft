@@ -53,3 +53,15 @@
 [28Jul2025 00:33:28.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.3587549618293906
 [28Jul2025 00:33:28.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.7360556917778922
 [28Jul2025 00:33:44.387] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/34236, l='ServerLevel[world]', x=-871.32, y=95.85, z=-761.51]
+[28Jul2025 00:38:03.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has made the advancement [A Seedy Place]
+[28Jul2025 00:39:40.493] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/34236, l='ServerLevel[world]', x=-971.54, y=164.00, z=-992.41]
+[28Jul2025 00:40:37.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiniSalchi lost connection: Disconnected
+[28Jul2025 00:40:37.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiniSalchi left the game
+[28Jul2025 00:41:05.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MiniSalchi[/127.206.118.151:35885] logged in with entity id 38185 at (-839.6999999880791, 47.0, -962.6999999880791)
+[28Jul2025 00:41:05.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiniSalchi joined the game
+[28Jul2025 00:44:17.037] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/34236, l='ServerLevel[world]', x=-831.07, y=79.00, z=-975.82]
+[28Jul2025 00:44:20.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 0.5489020683702392
+[28Jul2025 00:44:20.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 1.2062110398181858
+[28Jul2025 00:44:20.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 1.8654498140780333
+[28Jul2025 00:44:20.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 2.0
+[28Jul2025 00:44:20.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of MiniSalchi) moved wrongly! 2.0

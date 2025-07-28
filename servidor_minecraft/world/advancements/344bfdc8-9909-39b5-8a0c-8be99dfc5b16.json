@@ -360,7 +360,10 @@
     "criteria": {
       "minecraft:taiga": "2025-07-27 23:38:10 +0000",
       "minecraft:stony_shore": "2025-07-27 07:33:19 +0000",
-      "minecraft:cold_ocean": "2025-07-27 07:47:28 +0000"
+      "minecraft:grove": "2025-07-28 00:33:15 +0000",
+      "minecraft:cold_ocean": "2025-07-27 07:47:28 +0000",
+      "minecraft:forest": "2025-07-28 00:36:53 +0000",
+      "minecraft:plains": "2025-07-28 00:35:45 +0000"
     },
     "done": false
   },

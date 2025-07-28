@@ -133,7 +133,9 @@
       "minecraft:river": "2025-07-27 08:38:14 +0000",
       "minecraft:stony_shore": "2025-07-27 06:55:19 +0000",
       "minecraft:cold_ocean": "2025-07-27 06:57:54 +0000",
-      "minecraft:desert": "2025-07-27 06:38:37 +0000"
+      "minecraft:forest": "2025-07-28 00:36:50 +0000",
+      "minecraft:desert": "2025-07-27 06:38:37 +0000",
+      "minecraft:plains": "2025-07-28 00:35:02 +0000"
     },
     "done": false
   },
@@ -1756,7 +1758,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-07-27 07:03:23 +0000",
-      "brown_mushroom": "2025-07-27 07:20:12 +0000"
+      "brown_mushroom": "2025-07-27 07:20:12 +0000",
+      "wheat": "2025-07-28 00:38:03 +0000"
     },
     "done": false
   },
@@ -5537,6 +5540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-07-28 00:33:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-07-27 23:31:58 +0000"
@@ -5666,6 +5675,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-07-27 23:31:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-07-28 00:41:16 +0000"
     },
     "done": true
   },
@@ -6024,6 +6039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-28 00:41:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-07-27 23:29:06 +0000"
@@ -6117,6 +6138,12 @@
   "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
     "criteria": {
       "has_log": "2025-07-27 23:28:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-07-28 00:41:16 +0000"
     },
     "done": true
   },
@@ -6225,6 +6252,12 @@
   "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2025-07-28 00:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-28 00:41:16 +0000"
     },
     "done": true
   },
@@ -6375,6 +6408,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-07-28 00:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-28 00:38:03 +0000"
     },
     "done": true
   },

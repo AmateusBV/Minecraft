@@ -133,7 +133,8 @@
       "minecraft:river": "2025-07-27 08:38:26 +0000",
       "minecraft:stony_shore": "2025-07-27 06:50:18 +0000",
       "minecraft:cold_ocean": "2025-07-27 06:50:49 +0000",
-      "minecraft:forest": "2025-07-27 23:20:41 +0000"
+      "minecraft:forest": "2025-07-27 23:20:41 +0000",
+      "minecraft:plains": "2025-07-28 00:34:55 +0000"
     },
     "done": false
   },
@@ -274,6 +275,7 @@
       "minecraft:skeleton": "2025-07-27 06:53:27 +0000",
       "minecraft:spider": "2025-07-27 23:43:34 +0000",
       "minecraft:creeper": "2025-07-28 00:29:33 +0000",
+      "minecraft:witch": "2025-07-28 00:37:36 +0000",
       "minecraft:cave_spider": "2025-07-27 07:54:00 +0000",
       "minecraft:enderman": "2025-07-27 23:15:04 +0000",
       "minecraft:zombie": "2025-07-27 06:55:29 +0000"
@@ -288,6 +290,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-28 00:38:34 +0000",
       "sweet_berries": "2025-07-27 06:54:05 +0000",
       "cooked_beef": "2025-07-27 07:27:15 +0000",
       "potato": "2025-07-27 08:24:27 +0000",
@@ -4494,6 +4497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 00:34:21 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:all_moonlight_weapons": {
     "criteria": {
       "bluemoon_greatsword": "2025-07-27 23:32:36 +0000"
@@ -4560,6 +4569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-07-28 00:33:38 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-27 23:35:38 +0000"
@@ -4602,6 +4617,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-28 00:35:05 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-07-27 23:27:40 +0000"
@@ -4629,6 +4650,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-28 00:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-28 00:35:05 +0000"
     },
     "done": true
   },
@@ -4803,6 +4830,12 @@
   "tconstruct:recipes/misc/common/slime/sky/slimeball_from_congealed": {
     "criteria": {
       "has_item": "2025-07-27 23:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-07-28 00:34:21 +0000"
     },
     "done": true
   },
@@ -4992,6 +5025,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 00:35:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-07-27 23:27:40 +0000"
@@ -5007,6 +5046,30 @@
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2025-07-27 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_planks_from_stripped_mangrove_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 00:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-28 00:35:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 00:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-28 00:34:21 +0000"
     },
     "done": true
   },
