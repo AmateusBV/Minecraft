@@ -95,11 +95,15 @@
       "fen": "2025-07-28 04:25:04 +0000",
       "muddy_river": "2025-07-27 07:22:41 +0000",
       "autumnal_maple_forest": "2025-07-28 00:18:49 +0000",
+      "redstone_caves": "2025-07-28 04:53:40 +0000",
+      "mycotoxic_undergrowth": "2025-07-28 05:06:37 +0000",
       "ochard": "2025-07-28 01:14:31 +0000",
       "maple_forest": "2025-07-27 06:31:02 +0000",
       "outback": "2025-07-27 06:38:29 +0000",
       "boreal_forest": "2025-07-27 06:52:57 +0000",
+      "blackstone_basin": "2025-07-28 05:10:14 +0000",
       "towering_cliffs": "2025-07-28 03:03:11 +0000",
+      "infernal_holt": "2025-07-28 05:11:23 +0000",
       "cold_river": "2025-07-28 01:16:34 +0000",
       "pine_slopes": "2025-07-27 08:47:25 +0000",
       "golden_boreal_taiga": "2025-07-27 07:23:17 +0000",
@@ -261,6 +265,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "yellow_bioshroom_stem": "2025-07-28 05:07:00 +0000",
       "larch_log": "2025-07-27 06:54:28 +0000",
       "pine_log": "2025-07-28 03:04:01 +0000",
       "silver_birch_log": "2025-07-28 01:22:48 +0000",
@@ -1406,6 +1411,7 @@
       "potato": "2025-07-27 23:15:37 +0000",
       "bread": "2025-07-27 07:15:34 +0000",
       "rotten_flesh": "2025-07-27 07:49:56 +0000",
+      "suspicious_stew": "2025-07-28 05:13:49 +0000",
       "salmon": "2025-07-27 07:45:54 +0000",
       "golden_carrot": "2025-07-28 00:32:06 +0000"
     },
@@ -1779,6 +1785,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "onion": "2025-07-28 05:15:41 +0000",
       "sweet_berries": "2025-07-27 07:03:23 +0000",
       "brown_mushroom": "2025-07-27 07:20:12 +0000",
       "sugar_cane": "2025-07-28 02:53:48 +0000",
@@ -6941,9 +6948,35 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2025-07-28 05:22:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2025-07-28 05:06:37 +0000",
+      "blackstone_basin": "2025-07-28 05:10:14 +0000",
+      "infernal_holt": "2025-07-28 05:11:23 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-07-28 04:08:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:12:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_planks": {
+    "criteria": {
+      "has_logs": "2025-07-28 05:07:00 +0000"
     },
     "done": true
   },
@@ -6971,6 +7004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:12:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-07-28 04:30:55 +0000"
@@ -6995,6 +7034,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-07-28 04:54:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-07-28 04:53:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-07-28 04:10:59 +0000"
@@ -7004,6 +7055,12 @@
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2025-07-28 03:29:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-07-28 04:54:13 +0000"
     },
     "done": true
   },
@@ -7031,6 +7088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-28 05:08:48 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/acacia_plank_battle_staff_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 04:10:59 +0000"
@@ -7042,6 +7105,12 @@
       "has_planks": "2025-07-28 04:10:59 +0000"
     },
     "done": true
+  },
+  "tconstruct:smeltery/cast_collector": {
+    "criteria": {
+      "hammer_head": "2025-07-28 05:22:22 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
@@ -7055,9 +7124,21 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-28 05:06:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-07-28 04:30:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-07-28 04:54:13 +0000"
     },
     "done": true
   },
@@ -7073,9 +7154,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:12:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-07-28 05:14:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_door_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_slab": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:07:19 +0000"
     },
     "done": true
   },
@@ -7097,6 +7196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:12:10 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/acacia_plank_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 04:10:59 +0000"
@@ -7115,9 +7220,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-28 05:07:00 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/gray_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/yellow_bioshroom_sign": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:07:19 +0000"
     },
     "done": true
   },
@@ -7139,6 +7256,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 05:14:04 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-28 04:10:59 +0000"
@@ -7148,6 +7271,18 @@
   "mca:recipes/decorations/yellow_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/yellow_bioshroom_fence": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:07:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 05:14:04 +0000"
     },
     "done": true
   },
@@ -7217,6 +7352,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:12:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-07-28 04:10:59 +0000"
@@ -7229,6 +7376,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:12:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_trapdoor": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:07:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_stairs_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:10:59 +0000"
@@ -7238,6 +7397,12 @@
   "mca:recipes/decorations/orange_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 05:14:04 +0000"
     },
     "done": true
   },
@@ -7259,9 +7424,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-28 04:46:12 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/green_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_pressure_plate": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:07:19 +0000"
     },
     "done": true
   },
@@ -7307,6 +7484,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_stairs": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:07:19 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/glass/vanilla/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:12:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_slab_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:10:59 +0000"
@@ -7331,6 +7520,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_door": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:07:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-28 04:10:59 +0000"
@@ -7343,11 +7538,47 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-07-28 04:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-28 05:12:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/gadgets/shuriken/quartz_shuriken": {
+    "criteria": {
+      "has_item": "2025-07-28 05:12:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/barrel_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:10:59 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-28 05:06:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_button": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:07:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:ancient_specimens": {
+    "criteria": {
+      "yellow_bioshroom_stem": "2025-07-28 05:07:00 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
     "criteria": {
@@ -7367,6 +7598,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/cast_chest": {
+    "criteria": {
+      "has_item": "2025-07-28 05:22:22 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/acacia_plank_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 04:10:59 +0000"
@@ -7376,6 +7613,18 @@
   "minecraft:recipes/woodcutting/acacia/acacia_boat_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:10:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-07-28 05:14:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_fence_gate": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:07:19 +0000"
     },
     "done": true
   },

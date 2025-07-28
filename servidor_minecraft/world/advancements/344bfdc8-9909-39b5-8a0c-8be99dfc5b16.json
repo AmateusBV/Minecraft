@@ -1363,6 +1363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:44:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-07-27 23:47:04 +0000"
@@ -1525,6 +1531,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/silver_birch_sapling_from_silver_birch_shrub": {
+    "criteria": {
+      "has_silver_birch_shrub": "2025-07-28 04:54:30 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-28 04:02:28 +0000"
@@ -1626,6 +1638,12 @@
       "comfort": "2025-07-28 00:10:09 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-07-28 04:59:18 +0000"
+    },
+    "done": false
   },
   "expanded_combat:recipes/combat/diamond_flail_conditional_shaped": {
     "criteria": {
@@ -1867,6 +1885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:44:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 23:43:51 +0000"
@@ -2101,6 +2125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:44:52 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/gray_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-28 00:48:46 +0000"
@@ -2122,6 +2152,12 @@
   "soulsweapons:recipes/tools/moonstone_axe_left": {
     "criteria": {
       "has_item": "2025-07-28 00:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-28 05:21:27 +0000"
     },
     "done": true
   },
@@ -2380,6 +2416,12 @@
   "expanded_combat:recipes/combat/oak_plank_sickle_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 00:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_button_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:44:52 +0000"
     },
     "done": true
   },
@@ -2839,6 +2881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:44:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-07-28 04:40:01 +0000"
@@ -3130,6 +3178,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-07-28 00:01:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-28 05:21:27 +0000"
     },
     "done": true
   },
@@ -3734,6 +3788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/barrel_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:44:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-28 02:00:27 +0000"
@@ -3956,6 +4016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:44:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-28 01:52:07 +0000"
@@ -4034,6 +4100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:44:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-28 01:30:17 +0000"
@@ -4084,6 +4156,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-28 05:20:30 +0000",
       "minecraft:zombie": "2025-07-27 23:46:43 +0000",
       "minecraft:drowned": "2025-07-28 04:22:54 +0000"
     },
@@ -4551,6 +4624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:44:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-07-28 00:01:31 +0000"
@@ -4983,6 +5062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:44:52 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_blue_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-28 04:02:28 +0000"
@@ -5301,6 +5386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:44:52 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:moonstone": {
     "criteria": {
       "moonstone": "2025-07-28 00:01:38 +0000"
@@ -5370,6 +5461,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/chest_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:44:52 +0000"
     },
     "done": true
   },
@@ -5680,6 +5777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:44:52 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-27 23:43:38 +0000"
@@ -5719,6 +5822,12 @@
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2025-07-27 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_door_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 04:44:52 +0000"
     },
     "done": true
   },
@@ -5947,6 +6056,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-27 23:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-28 04:59:18 +0000"
     },
     "done": true
   },

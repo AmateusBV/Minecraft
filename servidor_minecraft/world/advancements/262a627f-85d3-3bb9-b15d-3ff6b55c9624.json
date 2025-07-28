@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_soul_glass": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 03:56:46 +0000"
@@ -239,6 +245,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/seared/ingot_tank": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-07-28 03:45:59 +0000",
@@ -267,6 +279,12 @@
   "expanded_combat:recipes/combat/iron_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 03:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-07-28 04:56:59 +0000"
     },
     "done": true
   },
@@ -303,6 +321,12 @@
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-07-28 03:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-28 05:11:07 +0000"
     },
     "done": true
   },
@@ -582,6 +606,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-07-28 05:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-07-28 03:38:31 +0000"
@@ -615,6 +645,12 @@
   "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-28 04:24:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/ingot_gauge": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
     },
     "done": true
   },
@@ -702,9 +738,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/seared/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-07-28 03:56:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-07-28 05:09:32 +0000"
     },
     "done": true
   },
@@ -759,6 +807,12 @@
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-07-28 03:27:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-07-28 04:53:08 +0000"
     },
     "done": true
   },
@@ -978,14 +1032,28 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/smeltery/seared/basin": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_tinted_glass": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2025-07-28 04:32:53 +0000",
       "fen": "2025-07-28 04:30:15 +0000",
       "autumnal_maple_forest": "2025-07-28 03:28:41 +0000",
+      "ochard": "2025-07-28 05:08:52 +0000",
       "maple_forest": "2025-07-28 03:27:26 +0000",
       "towering_cliffs": "2025-07-28 04:17:01 +0000",
-      "cold_river": "2025-07-28 04:05:28 +0000"
+      "cold_river": "2025-07-28 04:05:28 +0000",
+      "pumpkin_fields": "2025-07-28 04:56:53 +0000"
     },
     "done": false
   },
@@ -1004,6 +1072,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-28 04:24:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_glass": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
     },
     "done": true
   },
@@ -1060,9 +1134,11 @@
       "silver_birch_forest": "2025-07-28 04:32:53 +0000",
       "fen": "2025-07-28 04:30:15 +0000",
       "autumnal_maple_forest": "2025-07-28 03:28:41 +0000",
+      "ochard": "2025-07-28 05:08:52 +0000",
       "maple_forest": "2025-07-28 03:27:26 +0000",
       "towering_cliffs": "2025-07-28 04:17:01 +0000",
-      "cold_river": "2025-07-28 04:05:28 +0000"
+      "cold_river": "2025-07-28 04:05:28 +0000",
+      "pumpkin_fields": "2025-07-28 04:56:53 +0000"
     },
     "done": false
   },
@@ -1123,9 +1199,17 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-07-28 03:44:21 +0000",
-      "mutton": "2025-07-28 04:23:23 +0000"
+      "cooked_beef": "2025-07-28 04:57:38 +0000",
+      "mutton": "2025-07-28 04:23:23 +0000",
+      "bread": "2025-07-28 04:46:29 +0000"
     },
     "done": false
+  },
+  "tconstruct:recipes/tools/tools/building/flint_and_brick": {
+    "criteria": {
+      "has_seared": "2025-07-28 04:48:18 +0000"
+    },
+    "done": true
   },
   "legendary_monsters:nether_root": {
     "criteria": {
@@ -1187,6 +1271,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_from_brick": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-28 03:31:33 +0000"
@@ -1211,6 +1301,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-07-28 04:57:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_fence": {
     "criteria": {
       "has_maple_planks": "2025-07-28 03:31:05 +0000"
@@ -1220,6 +1316,18 @@
   "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_log_from_dark_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:03:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/table": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_ladder": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
     },
     "done": true
   },
@@ -1298,6 +1406,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-07-28 03:56:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/drain": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
     },
     "done": true
   },
@@ -1448,6 +1562,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/smeltery/seared/lantern": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-28 05:11:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-07-28 03:56:46 +0000"
@@ -1481,6 +1607,12 @@
   "regions_unexplored:recipes/transportation/larch_boat": {
     "criteria": {
       "in_water": "2025-07-28 03:45:52 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/channel": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
     },
     "done": true
   },
@@ -1701,6 +1833,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-07-28 05:09:32 +0000"
+    },
+    "done": true
+  },
   "orcz:orczchallenge": {
     "criteria": {
       "orczchallenge": "2025-07-28 03:27:25 +0000"
@@ -1833,6 +1971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-28 04:57:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_logs": "2025-07-28 03:29:42 +0000"
@@ -1869,9 +2013,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 04:57:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
     "criteria": {
       "has_planks": "2025-07-28 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/seared_casting_tank": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
     },
     "done": true
   },
@@ -1899,6 +2055,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/seared/faucet": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-28 03:44:21 +0000"
@@ -1914,6 +2076,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-28 04:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-07-28 04:56:59 +0000"
     },
     "done": true
   },
@@ -1953,6 +2121,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-28 04:57:03 +0000",
+      "has_the_recipe": "2025-07-28 04:57:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/maple_sapling_from_maple_shrub": {
     "criteria": {
       "has_maple_shrub": "2025-07-28 03:33:41 +0000"
@@ -1986,6 +2161,12 @@
   "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
     "criteria": {
       "has_planks": "2025-07-28 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/melter": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
     },
     "done": true
   },
@@ -2061,6 +2242,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-07-28 05:00:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
       "has_stick": "2025-07-28 03:31:33 +0000"
@@ -2070,6 +2257,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-07-28 03:38:31 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 04:48:15 +0000"
     },
     "done": true
   },
@@ -2177,9 +2370,27 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/seared/fuel_gauge": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/heater": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-07-28 04:02:56 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/chute": {
+    "criteria": {
+      "has_item": "2025-07-28 04:48:18 +0000"
     },
     "done": true
   },
@@ -2192,6 +2403,12 @@
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-07-28 04:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-28 05:11:07 +0000"
     },
     "done": true
   },

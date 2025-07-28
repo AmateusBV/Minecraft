@@ -95,12 +95,14 @@
       "fen": "2025-07-28 04:25:23 +0000",
       "muddy_river": "2025-07-27 07:30:02 +0000",
       "autumnal_maple_forest": "2025-07-28 00:15:52 +0000",
+      "mycotoxic_undergrowth": "2025-07-28 05:08:23 +0000",
       "ochard": "2025-07-28 01:14:27 +0000",
       "maple_forest": "2025-07-27 06:47:39 +0000",
       "mountains": "2025-07-27 23:40:17 +0000",
       "boreal_forest": "2025-07-27 06:48:43 +0000",
       "towering_cliffs": "2025-07-28 04:16:21 +0000",
       "cold_river": "2025-07-28 02:17:56 +0000",
+      "pumpkin_fields": "2025-07-28 04:53:46 +0000",
       "pine_slopes": "2025-07-27 08:45:07 +0000",
       "golden_boreal_taiga": "2025-07-27 08:50:25 +0000"
     },
@@ -118,6 +120,7 @@
       "boreal_forest": "2025-07-27 06:48:43 +0000",
       "towering_cliffs": "2025-07-28 04:16:21 +0000",
       "cold_river": "2025-07-28 02:17:56 +0000",
+      "pumpkin_fields": "2025-07-28 04:53:46 +0000",
       "pine_slopes": "2025-07-27 08:45:07 +0000",
       "golden_boreal_taiga": "2025-07-27 08:50:25 +0000"
     },
@@ -310,6 +313,7 @@
       "cooked_beef": "2025-07-27 07:27:15 +0000",
       "porkchop": "2025-07-28 00:44:27 +0000",
       "potato": "2025-07-27 08:24:27 +0000",
+      "mutton": "2025-07-28 05:01:25 +0000",
       "bread": "2025-07-27 07:09:17 +0000",
       "rotten_flesh": "2025-07-27 07:39:20 +0000",
       "salmon": "2025-07-27 07:03:56 +0000",
@@ -7759,6 +7763,24 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2025-07-28 05:17:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_maple_sapling_from_red_maple_shrub": {
+    "criteria": {
+      "has_red_maple_shrub": "2025-07-28 04:58:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2025-07-28 05:08:23 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-28 02:56:00 +0000"
@@ -7816,6 +7838,12 @@
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-28 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/silver_birch_sapling_from_silver_birch_shrub": {
+    "criteria": {
+      "has_silver_birch_shrub": "2025-07-28 04:58:44 +0000"
     },
     "done": true
   },
@@ -7930,6 +7958,12 @@
   "expanded_combat:recipes/combat/spruce_plank_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/puny_smelting": {
+    "criteria": {
+      "crafted_book": "2025-07-28 05:22:15 +0000"
     },
     "done": true
   },
@@ -8062,6 +8096,27 @@
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_slab_stonecutter": {
     "criteria": {
       "has_item": "2025-07-28 03:25:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/cast_collector": {
+    "criteria": {
+      "leggings_plating": "2025-07-28 05:19:29 +0000",
+      "small_blade": "2025-07-28 05:20:17 +0000",
+      "tool_binding": "2025-07-28 05:19:40 +0000",
+      "pick_head": "2025-07-28 05:20:03 +0000",
+      "adze_head": "2025-07-28 05:20:33 +0000",
+      "small_axe_head": "2025-07-28 05:20:25 +0000",
+      "boots_plating": "2025-07-28 05:19:21 +0000",
+      "chestplate_plating": "2025-07-28 05:19:13 +0000",
+      "tool_handle": "2025-07-28 05:19:49 +0000",
+      "helmet_plating": "2025-07-28 05:17:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-28 05:08:23 +0000"
     },
     "done": true
   },
@@ -8323,6 +8378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-28 05:12:26 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/smeltery/seared/table": {
     "criteria": {
       "has_item": "2025-07-28 03:16:11 +0000"
@@ -8350,6 +8411,12 @@
   "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
     "criteria": {
       "has_hyssop": "2025-07-28 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_large": {
+    "criteria": {
+      "has_medium_backpack": "2025-07-28 04:44:28 +0000"
     },
     "done": true
   },
@@ -8815,6 +8882,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-28 05:08:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:24:05 +0000"
@@ -8884,6 +8957,12 @@
   "mca:recipes/decorations/gray_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-28 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/cast_chest": {
+    "criteria": {
+      "has_item": "2025-07-28 05:17:29 +0000"
     },
     "done": true
   },
