@@ -298,3 +298,13 @@
 [28Jul2025 04:18:58.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has made the advancement [Not Today, Thank You]
 [28Jul2025 04:19:51.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jackjaeger has made the advancement [A Seedy Place]
 [28Jul2025 04:25:34.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh has made the advancement [Hot Stuff]
+[28Jul2025 04:27:11.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has made the advancement [Hot Stuff]
+[28Jul2025 04:30:58.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker drowned whilst trying to escape Corpse Fish
+[28Jul2025 04:31:25.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Teleported Peker to AmateuS]
+[28Jul2025 04:33:41.689] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-300, y=55, z=2560}
+[28Jul2025 04:33:41.689] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-289, y=55, z=2560}
+[28Jul2025 04:34:21.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker drowned
+[28Jul2025 04:35:20.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has completed the challenge [Premium!]
+[28Jul2025 04:35:35.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Teleported Peker to AmateuS]
+[28Jul2025 04:35:40.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has made the advancement [Tools of the Trade]
+[28Jul2025 04:35:41.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has completed the challenge [Premium!]
