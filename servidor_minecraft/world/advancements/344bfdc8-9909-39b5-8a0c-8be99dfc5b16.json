@@ -101,7 +101,9 @@
       "maple_forest": "2025-07-27 07:30:24 +0000",
       "mountains": "2025-07-28 00:56:40 +0000",
       "boreal_forest": "2025-07-27 07:33:38 +0000",
+      "blackstone_basin": "2025-07-28 05:48:42 +0000",
       "towering_cliffs": "2025-07-28 03:11:07 +0000",
+      "infernal_holt": "2025-07-28 05:53:52 +0000",
       "cold_river": "2025-07-28 02:46:57 +0000",
       "pine_slopes": "2025-07-28 00:56:48 +0000",
       "golden_boreal_taiga": "2025-07-28 01:02:28 +0000"
@@ -139,7 +141,9 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "yellow_bioshroom_stem": "2025-07-28 05:47:59 +0000",
       "larch_log": "2025-07-27 07:46:20 +0000",
+      "brimwood_log": "2025-07-28 05:54:04 +0000",
       "silver_birch_log": "2025-07-28 01:36:44 +0000",
       "maple_log": "2025-07-27 07:33:02 +0000"
     },
@@ -1322,6 +1326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 05:52:47 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/diamond_basic_shield": {
     "criteria": {
       "has_diamond": "2025-07-28 00:01:31 +0000"
@@ -1360,7 +1370,9 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
-      "mycotoxic_undergrowth": "2025-07-28 05:41:45 +0000"
+      "mycotoxic_undergrowth": "2025-07-28 05:41:45 +0000",
+      "blackstone_basin": "2025-07-28 05:48:42 +0000",
+      "infernal_holt": "2025-07-28 05:53:52 +0000"
     },
     "done": false
   },
@@ -1460,6 +1472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 05:52:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-07-28 05:42:35 +0000"
@@ -1553,6 +1571,12 @@
   "mca:recipes/decorations/pink_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-28 04:02:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_planks": {
+    "criteria": {
+      "has_logs": "2025-07-28 05:47:59 +0000"
     },
     "done": true
   },
@@ -1880,6 +1904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 05:52:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-07-27 23:43:51 +0000"
@@ -2126,6 +2156,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/brimwood_planks": {
+    "criteria": {
+      "has_logs": "2025-07-28 05:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-07-28 00:01:51 +0000"
@@ -2147,6 +2183,12 @@
   "soulsweapons:recipes/combat/bluemoon_greatsword": {
     "criteria": {
       "has_item": "2025-07-28 00:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 05:52:47 +0000"
     },
     "done": true
   },
@@ -2339,6 +2381,12 @@
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_fancy_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-07-28 03:33:56 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/cobalt_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-07-28 05:46:43 +0000"
     },
     "done": true
   },
@@ -3080,6 +3128,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/brimwood_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 05:54:04 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2025-07-27 23:43:51 +0000"
@@ -3386,6 +3440,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-28 05:47:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-28 02:00:16 +0000"
@@ -3512,6 +3572,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 05:52:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackstone_cluster": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 05:52:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-07-28 01:52:07 +0000"
@@ -3551,6 +3623,12 @@
   "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 00:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 05:52:47 +0000"
     },
     "done": true
   },
@@ -3768,6 +3846,12 @@
   "expanded_combat:recipes/combat/oak_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 00:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 05:52:47 +0000"
     },
     "done": true
   },
@@ -4236,6 +4320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 05:52:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2025-07-28 01:30:22 +0000"
@@ -4335,6 +4425,12 @@
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-07-28 00:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 05:52:47 +0000"
     },
     "done": true
   },
@@ -4626,6 +4722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 05:52:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-28 04:02:28 +0000"
@@ -4768,6 +4870,12 @@
   "mca:recipes/decorations/white_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-28 00:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 05:52:47 +0000"
     },
     "done": true
   },
@@ -5182,6 +5290,12 @@
   "mca:recipes/decorations/white_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-28 00:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 05:52:47 +0000"
     },
     "done": true
   },
@@ -5671,6 +5785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 05:52:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-07-27 23:56:15 +0000"
@@ -5704,6 +5824,12 @@
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-07-28 00:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 05:52:47 +0000"
     },
     "done": true
   },
@@ -5840,6 +5966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 05:52:47 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/oak_plank_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 00:01:51 +0000"
@@ -5906,6 +6038,12 @@
     },
     "done": true
   },
+  "regions_unexplored:ancient_specimens": {
+    "criteria": {
+      "yellow_bioshroom_stem": "2025-07-28 05:47:59 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:02:28 +0000"
@@ -5957,6 +6095,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-07-28 04:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-07-28 05:52:47 +0000"
     },
     "done": true
   },
@@ -6053,6 +6197,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-28 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/raw_cobalt_block_from_raws": {
+    "criteria": {
+      "has_item": "2025-07-28 05:46:43 +0000"
     },
     "done": true
   },

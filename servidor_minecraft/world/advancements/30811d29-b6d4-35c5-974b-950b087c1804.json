@@ -100,6 +100,7 @@
       "maple_forest": "2025-07-27 06:47:39 +0000",
       "mountains": "2025-07-27 23:40:17 +0000",
       "boreal_forest": "2025-07-27 06:48:43 +0000",
+      "blackstone_basin": "2025-07-28 05:49:05 +0000",
       "towering_cliffs": "2025-07-28 04:16:21 +0000",
       "cold_river": "2025-07-28 02:17:56 +0000",
       "pumpkin_fields": "2025-07-28 04:53:46 +0000",
@@ -7706,6 +7707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-28 05:43:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:24:05 +0000"
@@ -7778,7 +7785,8 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
-      "mycotoxic_undergrowth": "2025-07-28 05:08:23 +0000"
+      "mycotoxic_undergrowth": "2025-07-28 05:08:23 +0000",
+      "blackstone_basin": "2025-07-28 05:49:05 +0000"
     },
     "done": false
   },
@@ -7875,6 +7883,12 @@
   "tconstruct:recipes/redstone/smeltery/seared/ingot_tank": {
     "criteria": {
       "has_item": "2025-07-28 03:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-28 05:43:09 +0000"
     },
     "done": true
   },
@@ -7998,6 +8012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-28 05:43:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-28 04:28:17 +0000"
@@ -8019,6 +8039,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-28 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-28 05:43:09 +0000"
     },
     "done": true
   },
@@ -8224,6 +8250,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_slab": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:44:18 +0000"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/structure": {
     "criteria": {
       "open_smeltery": "2025-07-28 03:43:54 +0000"
@@ -8350,6 +8382,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/yellow_bioshroom_sign": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:44:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-07-28 02:58:37 +0000"
@@ -8401,6 +8439,12 @@
   "tconstruct:recipes/tools/tools/building/flint_and_brick": {
     "criteria": {
       "has_seared": "2025-07-28 03:16:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/yellow_bioshroom_fence": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:44:18 +0000"
     },
     "done": true
   },
@@ -8518,6 +8562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-28 05:43:09 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/drain": {
     "criteria": {
       "has_item": "2025-07-28 03:16:11 +0000"
@@ -8599,6 +8649,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-07-28 05:24:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_trapdoor": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:44:18 +0000"
     },
     "done": true
   },
@@ -8734,6 +8790,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_pressure_plate": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:44:18 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stairs_stonecutter": {
     "criteria": {
       "has_item": "2025-07-28 03:25:57 +0000"
@@ -8782,6 +8844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-28 05:43:09 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 04:24:05 +0000"
@@ -8815,6 +8883,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-07-28 02:58:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_stairs": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:44:18 +0000"
     },
     "done": true
   },
@@ -8914,6 +8988,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_door": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:44:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-07-28 04:24:05 +0000"
@@ -8986,6 +9066,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_button": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:44:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:ancient_specimens": {
     "criteria": {
       "yellow_bioshroom_stem": "2025-07-28 05:42:07 +0000"
@@ -9031,6 +9117,12 @@
   "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-07-28 02:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-28 05:43:09 +0000"
     },
     "done": true
   },
@@ -9133,6 +9225,12 @@
   "tconstruct:recipes/decorations/smeltery/seared/heater": {
     "criteria": {
       "has_item": "2025-07-28 03:16:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_fence_gate": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2025-07-28 05:44:18 +0000"
     },
     "done": true
   },

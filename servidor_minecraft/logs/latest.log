@@ -323,3 +323,26 @@
 [28Jul2025 05:41:41.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jackjaeger tried to swim in lava
 [28Jul2025 05:41:45.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has made the advancement [We Need to Go Deeper]
 [28Jul2025 05:43:53.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has made the advancement [Take Aim]
+[28Jul2025 05:48:09.326] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Jul2025 05:48:12.757] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14, y=32, z=377} BlockPos{x=-23, y=41, z=186}
+[28Jul2025 05:48:58.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Jul2025 05:49:31.222] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Jul2025 05:49:31.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Jul2025 05:49:31.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Jul2025 05:49:31.523] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Jul2025 05:49:31.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Jul2025 05:49:31.721] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Jul2025 05:49:31.823] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Jul2025 05:49:31.924] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Jul2025 05:49:32.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Jul2025 05:49:32.121] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Jul2025 05:49:32.221] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Jul2025 05:49:44.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh tried to swim in lava to escape Invading Forlorn
+[28Jul2025 05:51:14.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has made the advancement [Light Snack]
+[28Jul2025 05:52:35.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=53, z=102} BlockPos{x=-24, y=52, z=100}
+[28Jul2025 05:53:45.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has made the advancement [Downer]
+[28Jul2025 05:54:40.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jackjaeger was slain by Imp
+[28Jul2025 05:57:07.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS was slain by Invading Forlorn
+[28Jul2025 05:57:21.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Teleported AmateuS to Peker]
+[28Jul2025 05:57:48.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS was doomed to fall by Demon Minion
+[28Jul2025 05:57:51.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Teleported AmateuS to Peker]
