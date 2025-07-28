@@ -7777,6 +7777,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-28 08:03:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-07-28 07:17:05 +0000"
@@ -8013,6 +8019,12 @@
   "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-28 07:54:11 +0000"
     },
     "done": true
   },
@@ -9366,6 +9378,12 @@
       "has_item": "2025-07-28 03:16:11 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-07-28 07:54:11 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {

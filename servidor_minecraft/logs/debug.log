@@ -14189,3 +14189,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [28Jul2025 07:43:20.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Jul2025 07:48:20.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jul2025 07:48:20.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 07:51:16.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AmateuS> zzz
+[28Jul2025 07:53:20.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 07:53:20.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 07:54:11.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh has made the advancement [The Parrots and the Bats]
+[28Jul2025 07:58:20.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 07:58:20.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 08:03:20.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 08:03:20.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 08:04:17.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=33, z=284} BlockPos{x=-185, y=33, z=285}
+[28Jul2025 08:04:17.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=34, z=284} BlockPos{x=-184, y=33, z=284}
+[28Jul2025 08:06:36.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has made the advancement [Deceived Hopes]
+[28Jul2025 08:08:20.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 08:08:20.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -1823,6 +1823,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-28 04:08:12 +0000",
       "minecraft:skeleton": "2025-07-27 23:34:55 +0000",
+      "minecraft:spider": "2025-07-28 08:05:07 +0000",
       "minecraft:creeper": "2025-07-28 05:39:40 +0000",
       "minecraft:wither_skeleton": "2025-07-28 06:02:30 +0000",
       "minecraft:zombie": "2025-07-27 07:06:57 +0000",
@@ -7423,6 +7424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-07-28 08:05:13 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/acacia_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 04:10:59 +0000"
@@ -7570,6 +7577,12 @@
   "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
     "criteria": {
       "has_hyssop": "2025-07-28 07:14:22 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_large": {
+    "criteria": {
+      "has_medium_backpack": "2025-07-28 07:49:54 +0000"
     },
     "done": true
   },

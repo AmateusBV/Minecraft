@@ -385,3 +385,8 @@
 [28Jul2025 07:40:55.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-210, y=66, z=1993} BlockPos{x=-211, y=68, z=1994}
 [28Jul2025 07:40:55.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-210, y=66, z=1993} BlockPos{x=-211, y=68, z=1994}
 [28Jul2025 07:40:55.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-210, y=66, z=1994} BlockPos{x=-211, y=68, z=1995}
+[28Jul2025 07:51:16.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AmateuS> zzz
+[28Jul2025 07:54:11.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh has made the advancement [The Parrots and the Bats]
+[28Jul2025 08:04:17.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=33, z=284} BlockPos{x=-185, y=33, z=285}
+[28Jul2025 08:04:17.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=34, z=284} BlockPos{x=-184, y=33, z=284}
+[28Jul2025 08:06:36.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has made the advancement [Deceived Hopes]
