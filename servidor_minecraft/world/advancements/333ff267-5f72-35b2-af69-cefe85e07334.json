@@ -149,6 +149,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-28 00:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-28 00:19:45 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-07-27 23:47:46 +0000"
@@ -224,6 +236,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-27 23:34:47 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-07-28 00:21:54 +0000"
     },
     "done": true
   },
@@ -731,6 +749,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-07-28 00:21:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-07-27 23:21:12 +0000"
@@ -1031,6 +1055,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-07-28 00:21:54 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/stone_basic_shield": {
     "criteria": {
       "has_cobblestone": "2025-07-27 23:20:11 +0000"
@@ -1229,6 +1259,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-07-28 00:19:29 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/larch_button": {
     "criteria": {
       "has_larch_planks": "2025-07-27 23:18:55 +0000"
@@ -1281,6 +1317,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "autumnal_maple_forest": "2025-07-28 00:17:47 +0000",
       "maple_forest": "2025-07-27 23:13:43 +0000",
       "boreal_forest": "2025-07-27 23:15:04 +0000",
       "pine_slopes": "2025-07-27 23:52:30 +0000"
@@ -1391,6 +1428,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "autumnal_maple_forest": "2025-07-28 00:17:47 +0000",
       "maple_forest": "2025-07-27 23:13:43 +0000",
       "boreal_forest": "2025-07-27 23:15:04 +0000",
       "pine_slopes": "2025-07-27 23:52:30 +0000"
@@ -1472,6 +1510,12 @@
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2025-07-27 23:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-28 00:19:45 +0000"
     },
     "done": true
   },
@@ -1658,6 +1702,12 @@
   "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-27 23:34:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-07-28 00:09:29 +0000"
     },
     "done": true
   },
@@ -2099,6 +2149,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2025-07-28 00:19:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 23:41:54 +0000"
@@ -2327,6 +2383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 00:09:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-27 23:34:47 +0000"
@@ -2360,6 +2422,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-07-27 23:25:24 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-07-28 00:02:44 +0000"
     },
     "done": true
   },
@@ -2651,6 +2719,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-07-28 00:09:24 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/mauve_boat": {
     "criteria": {
       "in_water": "2025-07-27 23:21:12 +0000"
@@ -2768,6 +2842,12 @@
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-07-27 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-28 00:19:45 +0000"
     },
     "done": true
   },

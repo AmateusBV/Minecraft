@@ -91,7 +91,9 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-07-28 00:17:25 +0000",
       "muddy_river": "2025-07-27 07:33:47 +0000",
+      "autumnal_maple_forest": "2025-07-28 00:17:28 +0000",
       "maple_forest": "2025-07-27 07:30:24 +0000",
       "boreal_forest": "2025-07-27 07:33:38 +0000"
     },
@@ -99,7 +101,9 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-07-28 00:17:25 +0000",
       "muddy_river": "2025-07-27 07:33:47 +0000",
+      "autumnal_maple_forest": "2025-07-28 00:17:28 +0000",
       "maple_forest": "2025-07-27 07:30:24 +0000",
       "boreal_forest": "2025-07-27 07:33:38 +0000"
     },
@@ -1128,6 +1132,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-28 00:20:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-07-27 23:56:15 +0000"
@@ -1194,6 +1204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-28 00:02:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-07-28 00:01:56 +0000"
@@ -1224,6 +1240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-28 00:02:45 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_stick_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-27 23:43:38 +0000"
@@ -1239,6 +1261,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-07-28 00:01:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-07-28 00:10:09 +0000"
     },
     "done": true
   },
@@ -1323,6 +1351,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-07-28 00:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-28 00:14:10 +0000"
     },
     "done": true
   },
@@ -1518,6 +1552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-28 00:14:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-07-28 00:01:31 +0000"
@@ -1689,6 +1729,12 @@
   "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-07-28 00:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-28 00:02:45 +0000"
     },
     "done": true
   },
@@ -1944,6 +1990,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-07-28 00:19:25 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-27 23:43:51 +0000"
@@ -1961,6 +2013,18 @@
       "has_oak_planks": "2025-07-28 00:01:51 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-28 00:16:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "cooked_rice": "2025-07-28 00:10:09 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
@@ -2058,6 +2122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-28 00:16:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_salmon": "2025-07-27 23:44:22 +0000"
@@ -2085,6 +2155,12 @@
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2025-07-28 00:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-28 00:20:39 +0000"
     },
     "done": true
   },
@@ -2514,6 +2590,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2025-07-28 00:20:39 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-27 23:43:38 +0000"
@@ -2586,6 +2668,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-28 00:16:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-07-28 00:01:31 +0000"
@@ -2607,6 +2695,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-07-28 00:14:10 +0000"
     },
     "done": true
   },
@@ -2700,6 +2794,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 00:14:10 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-27 23:43:51 +0000"
@@ -2709,6 +2809,12 @@
   "soulsweapons:recipes/tools/moonstone_shovel": {
     "criteria": {
       "has_item": "2025-07-28 00:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-28 00:02:45 +0000"
     },
     "done": true
   },
@@ -2778,6 +2884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-28 00:14:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-27 23:42:41 +0000"
@@ -2829,6 +2941,12 @@
   "expanded_combat:recipes/combat/half_gold_bow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-27 23:43:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 00:10:04 +0000"
     },
     "done": true
   },
@@ -2953,6 +3071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-28 00:02:45 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-28 00:01:51 +0000"
@@ -2962,6 +3086,12 @@
   "expanded_combat:recipes/combat/gold_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-27 23:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-28 00:20:39 +0000"
     },
     "done": true
   },
@@ -3022,6 +3152,12 @@
   "expanded_combat:recipes/combat/diamond_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 00:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-28 00:02:45 +0000"
     },
     "done": true
   },
