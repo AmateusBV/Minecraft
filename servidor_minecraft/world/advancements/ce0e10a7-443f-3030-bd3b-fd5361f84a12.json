@@ -6922,5 +6922,23 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-07-28 03:29:47 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2025-07-28 03:29:49 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:explosive_temper": {
+    "criteria": {
+      "explosive_temper_0": "2025-07-28 03:29:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
