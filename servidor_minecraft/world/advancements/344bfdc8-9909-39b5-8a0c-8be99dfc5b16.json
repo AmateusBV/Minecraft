@@ -1176,6 +1176,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-07-28 01:27:16 +0000"
@@ -1922,6 +1928,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-07-28 00:01:31 +0000"
@@ -2438,6 +2450,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/leather_quiver_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 01:47:36 +0000"
@@ -2624,6 +2642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-07-28 00:00:37 +0000"
@@ -2729,6 +2753,12 @@
   "expanded_combat:recipes/combat/diamond_crossbow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 00:01:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
     },
     "done": true
   },
@@ -3089,6 +3119,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-28 05:41:45 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-07-28 08:21:32 +0000"
     },
     "done": true
   },
@@ -3560,6 +3596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 00:01:31 +0000"
@@ -3698,6 +3740,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-28 02:00:16 +0000"
@@ -3824,6 +3872,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/lime_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-28 00:01:51 +0000"
@@ -3884,6 +3938,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-27 23:43:38 +0000"
@@ -3923,6 +3983,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-07-28 01:30:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
     },
     "done": true
   },
@@ -4557,6 +4623,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-28 04:41:21 +0000"
@@ -4587,9 +4665,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-07-28 01:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-28 08:21:32 +0000"
     },
     "done": true
   },
@@ -4820,6 +4910,7 @@
       "minecraft:pillager": "2025-07-28 06:55:45 +0000",
       "minecraft:skeleton": "2025-07-28 05:20:30 +0000",
       "minecraft:spider": "2025-07-28 05:23:07 +0000",
+      "minecraft:creeper": "2025-07-28 08:12:48 +0000",
       "minecraft:zombie": "2025-07-27 23:46:43 +0000",
       "minecraft:drowned": "2025-07-28 04:22:54 +0000"
     },
@@ -5221,6 +5312,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-28 01:52:07 +0000"
@@ -5236,6 +5333,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-07-28 07:58:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
     },
     "done": true
   },
@@ -5278,6 +5381,12 @@
   "expanded_combat:recipes/combat/diamond_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 00:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-28 08:21:32 +0000"
     },
     "done": true
   },
@@ -5399,6 +5508,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-28 07:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-28 08:11:48 +0000"
     },
     "done": true
   },
@@ -5564,6 +5679,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-07-28 01:27:16 +0000"
@@ -5609,6 +5730,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-28 07:59:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
     },
     "done": true
   },
@@ -5669,6 +5796,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-07-28 01:16:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
     },
     "done": true
   },
@@ -6212,6 +6345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/misc/verglas": {
     "criteria": {
       "has_item": "2025-07-28 01:29:29 +0000"
@@ -6308,9 +6447,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-07-28 04:40:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
     },
     "done": true
   },
@@ -6335,6 +6486,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-07-28 00:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-28 08:11:48 +0000"
     },
     "done": true
   },
@@ -6681,6 +6838,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-28 02:00:27 +0000"
@@ -6696,6 +6859,12 @@
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2025-07-28 04:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-28 08:11:48 +0000"
     },
     "done": true
   },
@@ -6921,6 +7090,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_cracked_bricks_smelting": {
     "criteria": {
       "has_item": "2025-07-28 03:33:56 +0000"
@@ -6954,6 +7129,12 @@
   "expanded_combat:recipes/combat/oak_plank_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-07-28 00:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-07-28 08:11:48 +0000"
     },
     "done": true
   },
@@ -7206,6 +7387,18 @@
   "tconstruct:recipes/redstone/common/slime/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-07-28 03:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-07-28 08:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-07-28 08:11:48 +0000"
     },
     "done": true
   },

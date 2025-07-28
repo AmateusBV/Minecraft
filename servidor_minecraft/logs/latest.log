@@ -390,3 +390,11 @@
 [28Jul2025 08:04:17.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=33, z=284} BlockPos{x=-185, y=33, z=285}
 [28Jul2025 08:04:17.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=34, z=284} BlockPos{x=-184, y=33, z=284}
 [28Jul2025 08:06:36.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has made the advancement [Deceived Hopes]
+[28Jul2025 08:15:23.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=39, z=312} BlockPos{x=-82, y=39, z=312}
+[28Jul2025 08:15:23.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=39, z=312} BlockPos{x=-82, y=39, z=312}
+[28Jul2025 08:18:29.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=42, z=266} BlockPos{x=-161, y=42, z=266}
+[28Jul2025 08:25:28.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-231, y=57, z=248} BlockPos{x=-232, y=55, z=248}
+[28Jul2025 08:27:30.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=50, z=294} BlockPos{x=-138, y=48, z=294}
+[28Jul2025 08:27:30.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=50, z=294} BlockPos{x=-138, y=48, z=294}
+[28Jul2025 08:28:12.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-50, y=48, z=294} BlockPos{x=-43, y=45, z=294}
+[28Jul2025 08:28:13.005] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-50, y=48, z=294} BlockPos{x=-43, y=45, z=294}
