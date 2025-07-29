@@ -95,6 +95,7 @@
       "fen": "2025-07-28 04:25:04 +0000",
       "muddy_river": "2025-07-27 07:22:41 +0000",
       "autumnal_maple_forest": "2025-07-28 00:18:49 +0000",
+      "ancient_delta": "2025-07-29 03:29:34 +0000",
       "redstone_caves": "2025-07-28 04:53:40 +0000",
       "mycotoxic_undergrowth": "2025-07-28 05:06:37 +0000",
       "ochard": "2025-07-28 01:14:31 +0000",
@@ -7415,7 +7416,8 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
-      "redstone_caves": "2025-07-28 04:53:40 +0000"
+      "redstone_caves": "2025-07-28 04:53:40 +0000",
+      "ancient_delta": "2025-07-29 03:29:34 +0000"
     },
     "done": false
   },
@@ -8478,6 +8480,12 @@
     },
     "done": true
   },
+  "hrbsdrills:drill": {
+    "criteria": {
+      "requirement": "2025-07-29 03:21:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-29 02:44:28 +0000"
@@ -8520,6 +8528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-07-29 03:30:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-07-29 02:44:28 +0000"
@@ -8535,6 +8549,12 @@
   "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-29 02:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-07-29 03:30:02 +0000"
     },
     "done": true
   },
