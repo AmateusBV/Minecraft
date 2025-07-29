@@ -1116,3 +1116,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [29Jul2025 04:27:38.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Teleported Jackjaeger to AmateuS]
 [29Jul2025 04:27:41.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has completed the challenge [The One - Armed Monster]
 [29Jul2025 04:28:38.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi has reached the goal [Postmortal]
+[29Jul2025 04:32:32.923] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/45798, l='ServerLevel[world]', x=-832.07, y=90.15, z=1260.22]
+[29Jul2025 04:32:32.924] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/45804, l='ServerLevel[world]', x=-832.18, y=90.24, z=1257.88]
+[29Jul2025 04:34:06.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Peker moved wrongly!
+[29Jul2025 04:34:16.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jackjaeger) moved wrongly! 0.3004008350443428
+[29Jul2025 04:34:16.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AmateuS) moved wrongly! 0.4627997170071012
+[29Jul2025 04:34:16.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jackjaeger) moved wrongly! 0.45588769693210907
+[29Jul2025 04:34:17.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jackjaeger) moved wrongly! 0.3098174521448982
+[29Jul2025 04:34:27.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jackjaeger) moved wrongly! 0.2839889232539008

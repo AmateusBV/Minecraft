@@ -4238,10 +4238,13 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "amethyst_bronze": "2025-07-29 04:36:08 +0000",
       "string": "2025-07-27 08:08:43 +0000",
       "wood": "2025-07-29 03:00:09 +0000",
       "rose_gold": "2025-07-27 08:08:43 +0000",
+      "slimesteel": "2025-07-29 04:36:08 +0000",
       "bone": "2025-07-27 08:08:43 +0000",
+      "leather": "2025-07-29 04:36:08 +0000",
       "iron": "2025-07-28 06:49:43 +0000",
       "ichorskin": "2025-07-29 03:00:09 +0000",
       "nahuatl": "2025-07-29 02:43:51 +0000"
@@ -8530,6 +8533,12 @@
       "has_item": "2025-07-29 04:07:30 +0000"
     },
     "done": true
+  },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "longbow": "2025-07-29 04:36:08 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/decorations/secret_crimson_sign_item": {
     "criteria": {
