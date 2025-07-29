@@ -11367,3 +11367,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [29Jul2025 04:06:42.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [39548c4a-3d13-4f6c-a3e4-d53430cc6c45]
 [29Jul2025 04:07:48.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jul2025 04:07:48.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 04:11:39.340] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [ce0e10a7-443f-3030-bd3b-fd5361f84a12]
+[29Jul2025 04:12:16.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi has made the advancement [Crops of the Wild]
+[29Jul2025 04:12:48.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 04:12:48.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 04:13:22.801] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[29Jul2025 04:13:22.801] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[29Jul2025 04:13:45.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minisalchi moved too quickly! -10.032258033456174,-0.7531999805212024,-1.8159271646090929
+[29Jul2025 04:13:46.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Peker moved too quickly! 0.7357705998265374,0.41290928041701136,-10.10479350403125
+[29Jul2025 04:15:12.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jackjaeger has made the advancement [The Wind Darkening]
+[29Jul2025 04:16:55.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has made the advancement [Life turned out to be a comedy]
+[29Jul2025 04:17:28.636] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [972ee559-6191-4309-936a-bc4813085ce0]
+[29Jul2025 04:17:48.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 04:17:48.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 04:18:12.832] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[29Jul2025 04:18:12.832] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[29Jul2025 04:18:37.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has made the advancement [Who You Gonna Call?]

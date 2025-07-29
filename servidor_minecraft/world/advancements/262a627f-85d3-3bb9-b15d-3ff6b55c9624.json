@@ -95,10 +95,14 @@
       "shrubland": "2025-07-29 03:47:31 +0000",
       "fen": "2025-07-28 04:30:15 +0000",
       "autumnal_maple_forest": "2025-07-28 03:28:41 +0000",
+      "willow_forest": "2025-07-29 04:11:58 +0000",
       "redstone_caves": "2025-07-28 07:36:37 +0000",
+      "grassy_beach": "2025-07-29 04:12:03 +0000",
+      "rocky_meadow": "2025-07-29 04:14:07 +0000",
       "mycotoxic_undergrowth": "2025-07-28 05:40:40 +0000",
       "ochard": "2025-07-28 05:08:52 +0000",
       "maple_forest": "2025-07-28 03:27:26 +0000",
+      "magnolia_highlands": "2025-07-29 04:11:16 +0000",
       "blackstone_basin": "2025-07-28 05:50:32 +0000",
       "towering_cliffs": "2025-07-28 04:17:01 +0000",
       "temperate_grove": "2025-07-29 03:54:54 +0000",
@@ -113,8 +117,12 @@
       "shrubland": "2025-07-29 03:47:31 +0000",
       "fen": "2025-07-28 04:30:15 +0000",
       "autumnal_maple_forest": "2025-07-28 03:28:41 +0000",
+      "willow_forest": "2025-07-29 04:11:58 +0000",
+      "grassy_beach": "2025-07-29 04:12:03 +0000",
+      "rocky_meadow": "2025-07-29 04:14:07 +0000",
       "ochard": "2025-07-28 05:08:52 +0000",
       "maple_forest": "2025-07-28 03:27:26 +0000",
+      "magnolia_highlands": "2025-07-29 04:11:16 +0000",
       "towering_cliffs": "2025-07-28 04:17:01 +0000",
       "temperate_grove": "2025-07-29 03:54:54 +0000",
       "cold_river": "2025-07-28 04:05:28 +0000",
@@ -7139,6 +7147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-29 04:16:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-07-29 03:00:41 +0000"
@@ -7190,6 +7204,12 @@
   "mca:recipes/misc/bouquet": {
     "criteria": {
       "has_item": "2025-07-29 03:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-29 04:16:46 +0000"
     },
     "done": true
   },
@@ -7274,6 +7294,12 @@
   "endertrigon:recipes/tools/dragon_horn": {
     "criteria": {
       "has_ender_eye": "2025-07-29 03:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-29 04:09:14 +0000"
     },
     "done": true
   },
@@ -7673,6 +7699,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-07-29 04:15:12 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/brewing/common/slime/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-07-29 03:48:27 +0000"
@@ -7745,6 +7777,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-29 04:16:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-07-29 02:38:21 +0000"
@@ -7778,6 +7816,12 @@
   "boatload:recipes/transportation/crimson_furnace_boat": {
     "criteria": {
       "has_boat": "2025-07-29 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-29 04:16:46 +0000"
     },
     "done": true
   },
