@@ -11512,3 +11512,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [29Jul2025 05:47:19.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Teleported Peker to AmateuS]
 [29Jul2025 05:47:48.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jul2025 05:47:48.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 05:50:56.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-405, y=46, z=267} BlockPos{x=-405, y=44, z=267}
+[29Jul2025 05:51:20.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6730ms or 134 ticks behind
+[29Jul2025 05:51:44.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has reached the goal [Arachnophobe's Nightmare]
+[29Jul2025 05:52:54.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 05:52:54.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 05:57:54.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 05:57:54.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 06:02:54.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 06:02:54.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 06:03:18.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-301, y=44, z=245} BlockPos{x=-294, y=48, z=242}
+[29Jul2025 06:03:18.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-301, y=44, z=245} BlockPos{x=-294, y=48, z=242}
+[29Jul2025 06:03:18.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-301, y=44, z=245} BlockPos{x=-294, y=48, z=242}
+[29Jul2025 06:03:18.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-301, y=44, z=245} BlockPos{x=-294, y=48, z=242}
+[29Jul2025 06:03:18.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-301, y=44, z=245} BlockPos{x=-294, y=48, z=242}
+[29Jul2025 06:03:18.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-301, y=44, z=245} BlockPos{x=-294, y=48, z=242}
+[29Jul2025 06:03:18.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-301, y=44, z=245} BlockPos{x=-294, y=48, z=242}
+[29Jul2025 06:03:18.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-301, y=44, z=245} BlockPos{x=-294, y=48, z=242}
+[29Jul2025 06:03:18.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-301, y=44, z=245} BlockPos{x=-294, y=48, z=242}
+[29Jul2025 06:03:18.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-301, y=44, z=245} BlockPos{x=-294, y=48, z=242}
+[29Jul2025 06:04:19.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-246, y=55, z=244} BlockPos{x=-233, y=59, z=258}
+[29Jul2025 06:07:54.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 06:07:54.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 06:08:21.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker fell from a high place
+[29Jul2025 06:08:28.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Teleported Peker to AmateuS]
+[29Jul2025 06:09:33.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-124, y=69, z=249} BlockPos{x=-90, y=65, z=244}
