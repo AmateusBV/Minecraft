@@ -1637,9 +1637,11 @@
     "criteria": {
       "minecraft:pillager": "2025-07-28 04:07:12 +0000",
       "minecraft:skeleton": "2025-07-28 04:18:54 +0000",
+      "minecraft:ravager": "2025-07-29 04:00:24 +0000",
       "minecraft:spider": "2025-07-28 04:02:56 +0000",
       "minecraft:creeper": "2025-07-28 08:05:50 +0000",
       "minecraft:zombified_piglin": "2025-07-28 05:45:41 +0000",
+      "minecraft:witch": "2025-07-29 04:04:06 +0000",
       "minecraft:endermite": "2025-07-29 03:10:31 +0000",
       "minecraft:zombie": "2025-07-28 04:03:31 +0000"
     },
@@ -6975,6 +6977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-07-29 03:48:27 +0000"
@@ -6990,6 +6998,12 @@
   "regions_unexplored:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-29 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-07-29 04:01:55 +0000"
     },
     "done": true
   },
@@ -7035,6 +7049,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-07-29 04:01:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-07-29 03:00:10 +0000"
@@ -7044,6 +7064,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-29 03:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-29 03:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_trapdoor_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
     },
     "done": true
   },
@@ -7077,6 +7109,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-29 04:01:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-29 03:22:58 +0000"
@@ -7095,6 +7133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/crafting_table_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-07-29 03:00:41 +0000"
@@ -7104,6 +7148,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-07-29 03:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-29 04:01:55 +0000"
     },
     "done": true
   },
@@ -7125,15 +7175,39 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2025-07-29 04:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_chest_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/bouquet": {
     "criteria": {
       "has_item": "2025-07-29 03:35:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_button_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-29 03:22:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2025-07-29 04:04:46 +0000"
     },
     "done": true
   },
@@ -7155,15 +7229,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-29 03:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/obsidian_tower_shield": {
     "criteria": {
       "has_obsidian": "2025-07-29 03:48:09 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-07-29 04:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_slab_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pressure_plate_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
   "endertrigon:recipes/tools/dragon_horn": {
     "criteria": {
       "has_ender_eye": "2025-07-29 03:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-29 03:59:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-29 03:59:47 +0000"
     },
     "done": true
   },
@@ -7233,6 +7355,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_button_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_trapdoor_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-29 04:01:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-29 03:44:04 +0000"
@@ -7275,15 +7415,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-29 03:22:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_stairs_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-07-29 03:48:05 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-07-29 04:05:14 +0000"
     },
     "done": true
   },
@@ -7311,6 +7469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_door_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/acacia_furnace_boat": {
     "criteria": {
       "has_boat": "2025-07-29 03:44:04 +0000"
@@ -7326,6 +7490,18 @@
   "usefulbackpacks:recipes/backpack_large": {
     "criteria": {
       "has_medium_backpack": "2025-07-29 03:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-29 04:01:55 +0000"
     },
     "done": true
   },
@@ -7365,6 +7541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-29 03:59:47 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/large_birch_boat": {
     "criteria": {
       "has_boat": "2025-07-29 03:44:04 +0000"
@@ -7395,15 +7577,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-07-29 03:44:04 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2025-07-29 03:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-29 04:01:55 +0000"
     },
     "done": true
   },
@@ -7461,6 +7661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-29 04:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-07-29 03:04:47 +0000"
@@ -7482,6 +7688,12 @@
   "regions_unexplored:recipes/transportation/socotra_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-29 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-29 04:01:55 +0000"
     },
     "done": true
   },
@@ -7509,15 +7721,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-29 04:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-29 04:01:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-07-29 03:44:41 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-29 03:59:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-07-29 02:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_gate_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-29 04:01:55 +0000"
     },
     "done": true
   },
@@ -7536,6 +7778,12 @@
   "boatload:recipes/transportation/crimson_furnace_boat": {
     "criteria": {
       "has_boat": "2025-07-29 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_stairs_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
     },
     "done": true
   },
@@ -7563,6 +7811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-29 04:01:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-07-29 03:44:48 +0000"
@@ -7575,9 +7829,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_door_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_pressure_plate_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_gate_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/joshua_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-29 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
     },
     "done": true
   },
@@ -7596,6 +7874,18 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-07-29 03:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_sign_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-07-29 04:00:01 +0000"
     },
     "done": true
   },
@@ -7623,6 +7913,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-29 04:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/barrel_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-07-29 03:23:43 +0000"
@@ -7635,9 +7943,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-07-29 04:00:01 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/large_mangrove_boat": {
     "criteria": {
       "has_boat": "2025-07-29 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_sign_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:05:14 +0000"
     },
     "done": true
   },

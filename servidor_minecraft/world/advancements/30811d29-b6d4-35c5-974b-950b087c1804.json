@@ -1780,6 +1780,7 @@
       "copper": "2025-07-27 07:17:04 +0000",
       "wood": "2025-07-29 03:00:14 +0000",
       "rose_gold": "2025-07-28 02:09:06 +0000",
+      "slimesteel": "2025-07-29 04:06:01 +0000",
       "bone": "2025-07-28 02:09:06 +0000",
       "hepatizon": "2025-07-28 00:56:06 +0000",
       "leather": "2025-07-28 09:00:56 +0000",
@@ -10898,15 +10899,36 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/materials/slimesteel_block_from_ingots": {
+    "criteria": {
+      "has_item": "2025-07-29 04:06:42 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_slab_stonecutter": {
     "criteria": {
       "has_item": "2025-07-29 02:33:45 +0000"
     },
     "done": true
   },
+  "tconstruct:foundry/plate_armor": {
+    "criteria": {
+      "crafted_leggings": "2025-07-29 04:06:01 +0000",
+      "crafted_boots": "2025-07-29 04:06:03 +0000",
+      "crafted_helmet": "2025-07-29 04:06:04 +0000",
+      "crafted_chestplate": "2025-07-29 04:06:06 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_slab": {
     "criteria": {
       "has_item": "2025-07-29 02:33:45 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/slimesteel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-29 04:06:42 +0000"
     },
     "done": true
   },
