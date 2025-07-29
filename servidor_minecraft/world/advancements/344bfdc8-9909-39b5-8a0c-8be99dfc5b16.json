@@ -1979,9 +1979,11 @@
       "minecraft:pillager": "2025-07-28 06:55:45 +0000",
       "minecraft:skeleton": "2025-07-28 05:20:30 +0000",
       "minecraft:ravager": "2025-07-29 03:59:26 +0000",
+      "minecraft:hoglin": "2025-07-29 05:04:50 +0000",
       "minecraft:vindicator": "2025-07-29 04:00:15 +0000",
       "minecraft:spider": "2025-07-28 05:23:07 +0000",
       "minecraft:creeper": "2025-07-28 08:12:48 +0000",
+      "minecraft:phantom": "2025-07-29 04:54:49 +0000",
       "minecraft:witch": "2025-07-29 04:03:00 +0000",
       "minecraft:zombie": "2025-07-27 23:46:43 +0000",
       "minecraft:drowned": "2025-07-28 04:22:54 +0000"
@@ -6571,6 +6573,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-07-29 04:59:48 +0000",
       "minecraft:nether_wastes": "2025-07-28 06:05:54 +0000"
     },
     "done": false

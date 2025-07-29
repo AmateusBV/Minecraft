@@ -1807,6 +1807,7 @@
       "sweet_berries": "2025-07-27 07:03:23 +0000",
       "brown_mushroom": "2025-07-27 07:20:12 +0000",
       "sugar_cane": "2025-07-28 02:53:48 +0000",
+      "nether_wart": "2025-07-29 04:49:02 +0000",
       "wheat": "2025-07-28 00:38:03 +0000"
     },
     "done": false
@@ -7663,6 +7664,7 @@
       "large_plate": "2025-07-28 07:36:29 +0000",
       "small_blade": "2025-07-28 07:33:35 +0000",
       "tool_binding": "2025-07-28 07:33:12 +0000",
+      "broad_axe_head": "2025-07-29 04:40:34 +0000",
       "hammer_head": "2025-07-28 05:22:22 +0000",
       "chestplate_plating": "2025-07-28 05:35:49 +0000",
       "tool_handle": "2025-07-28 07:33:31 +0000"
@@ -7881,6 +7883,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-07-29 04:59:48 +0000",
       "minecraft:nether_wastes": "2025-07-28 06:05:10 +0000"
     },
     "done": false
@@ -8516,6 +8519,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-07-29 04:53:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-29 02:44:28 +0000"
@@ -8600,6 +8609,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-07-29 04:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-29 05:00:16 +0000"
+    },
+    "done": true
+  },
   "mutantmonsters:burn_zombie_burn": {
     "criteria": {
       "used_flint_and_steel": "2025-07-29 03:03:38 +0000"
@@ -8642,6 +8663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-07-29 05:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-07-29 04:02:48 +0000"
@@ -8651,6 +8678,12 @@
   "securitycraft:recipes/decorations/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-07-29 02:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-07-29 04:42:39 +0000"
     },
     "done": true
   },
@@ -8711,6 +8744,12 @@
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-07-29 03:57:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-07-29 04:42:39 +0000"
     },
     "done": true
   },
@@ -8808,6 +8847,12 @@
   "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-07-29 02:44:28 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2025-07-29 04:42:39 +0000"
     },
     "done": true
   },

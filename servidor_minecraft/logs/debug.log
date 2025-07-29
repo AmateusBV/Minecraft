@@ -11429,3 +11429,51 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [29Jul2025 04:34:27.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jackjaeger) moved wrongly! 0.2839889232539008
 [29Jul2025 04:37:48.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jul2025 04:37:48.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 04:41:12.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jackjaeger lost connection: Disconnected
+[29Jul2025 04:41:12.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jackjaeger left the game
+[29Jul2025 04:42:48.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 04:42:48.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 04:43:07.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minisalchi lost connection: Disconnected
+[29Jul2025 04:43:07.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi left the game
+[29Jul2025 04:43:19.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker tried to make molten player
+[29Jul2025 04:44:39.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Teleported AmateuS to Peker]
+[29Jul2025 04:45:34.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Teleported AmateuS to Xiuh]
+[29Jul2025 04:45:41.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Teleported Peker to Xiuh]
+[29Jul2025 04:47:48.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 04:47:48.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 04:52:48.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 04:52:48.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 04:53:54.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has made the advancement [Double Trouble]
+[29Jul2025 04:55:15.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AmateuS> zzz
+[29Jul2025 04:57:26.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=58, z=204} BlockPos{x=-85, y=57, z=204}
+[29Jul2025 04:57:27.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-86, y=58, z=203} BlockPos{x=-87, y=58, z=204}
+[29Jul2025 04:57:37.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=60, z=201} BlockPos{x=-89, y=64, z=198}
+[29Jul2025 04:57:37.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=60, z=201} BlockPos{x=-89, y=64, z=198}
+[29Jul2025 04:57:37.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=60, z=201} BlockPos{x=-89, y=64, z=198}
+[29Jul2025 04:57:37.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=60, z=201} BlockPos{x=-89, y=64, z=198}
+[29Jul2025 04:57:37.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=60, z=201} BlockPos{x=-89, y=64, z=198}
+[29Jul2025 04:57:37.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=60, z=201} BlockPos{x=-89, y=64, z=198}
+[29Jul2025 04:57:37.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=60, z=201} BlockPos{x=-89, y=64, z=198}
+[29Jul2025 04:57:37.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=60, z=201} BlockPos{x=-89, y=64, z=198}
+[29Jul2025 04:57:37.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=60, z=201} BlockPos{x=-89, y=64, z=198}
+[29Jul2025 04:57:48.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 04:57:48.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 04:57:52.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=68, z=193} BlockPos{x=-98, y=70, z=193}
+[29Jul2025 04:57:52.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=71, z=193} BlockPos{x=-98, y=70, z=193}
+[29Jul2025 04:57:53.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-96, y=70, z=193} BlockPos{x=-97, y=71, z=193}
+[29Jul2025 04:57:53.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-96, y=70, z=193} BlockPos{x=-97, y=71, z=193}
+[29Jul2025 04:57:53.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-96, y=70, z=193} BlockPos{x=-97, y=71, z=193}
+[29Jul2025 04:57:53.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-96, y=70, z=193} BlockPos{x=-97, y=71, z=193}
+[29Jul2025 04:57:53.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-96, y=70, z=193} BlockPos{x=-97, y=71, z=193}
+[29Jul2025 04:57:53.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-96, y=70, z=193} BlockPos{x=-97, y=71, z=193}
+[29Jul2025 05:00:01.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=75, z=151} BlockPos{x=-102, y=75, z=151}
+[29Jul2025 05:02:48.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 05:02:48.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 05:07:48.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 05:07:48.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 05:09:23.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has made the advancement [Nightmare Fuel]
+[29Jul2025 05:09:36.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-96, y=54, z=145} BlockPos{x=-94, y=54, z=144}
+[29Jul2025 05:09:36.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-96, y=54, z=145} BlockPos{x=-94, y=54, z=144}
+[29Jul2025 05:09:37.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-96, y=54, z=145} BlockPos{x=-94, y=54, z=144}
+[29Jul2025 05:09:37.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-96, y=54, z=145} BlockPos{x=-94, y=54, z=144}
+[29Jul2025 05:09:37.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-96, y=54, z=145} BlockPos{x=-94, y=54, z=144}
