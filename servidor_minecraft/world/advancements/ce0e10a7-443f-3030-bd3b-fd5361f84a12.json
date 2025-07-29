@@ -5350,6 +5350,7 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
+      "bluemoon_shortsword": "2025-07-29 06:29:08 +0000",
       "sting": "2025-07-27 08:42:34 +0000"
     },
     "done": false
@@ -8446,6 +8447,12 @@
     },
     "done": true
   },
+  "soulsweapons:all_moonlight_weapons": {
+    "criteria": {
+      "bluemoon_shortsword": "2025-07-29 06:29:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-07-29 04:02:06 +0000"
@@ -8659,6 +8666,12 @@
   "endertrigon:recipes/tools/dragon_horn": {
     "criteria": {
       "has_goat_horn": "2025-07-29 04:04:17 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:bluemoon_tools": {
+    "criteria": {
+      "bluemoon_shortsword": "2025-07-29 06:29:08 +0000"
     },
     "done": true
   },

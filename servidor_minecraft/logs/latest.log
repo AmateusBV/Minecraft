@@ -1194,3 +1194,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [29Jul2025 06:08:21.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker fell from a high place
 [29Jul2025 06:08:28.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Teleported Peker to AmateuS]
 [29Jul2025 06:09:33.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-124, y=69, z=249} BlockPos{x=-90, y=65, z=244}
+[29Jul2025 06:29:08.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has made the advancement [A... Fake?]
+[29Jul2025 06:31:23.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has reached the goal [Exorcism]
+[29Jul2025 06:31:45.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Peker moved too quickly! -1.0451041212932637,-0.7420008964847256,10.016870436312274
+[29Jul2025 06:38:17.227] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RadioactiveBearEntity[' radioactive_bear  ❤4'/93672, l='ServerLevel[world]', x=-119.84, y=63.00, z=1669.03] died:  radioactive_bear  ❤4 was slain by AmateuS
