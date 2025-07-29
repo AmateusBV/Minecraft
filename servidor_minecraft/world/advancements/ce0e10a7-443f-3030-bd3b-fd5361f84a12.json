@@ -92,6 +92,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2025-07-28 00:20:06 +0000",
+      "shrubland": "2025-07-29 03:46:59 +0000",
       "fen": "2025-07-28 04:25:04 +0000",
       "muddy_river": "2025-07-27 07:22:41 +0000",
       "autumnal_maple_forest": "2025-07-28 00:18:49 +0000",
@@ -105,7 +106,9 @@
       "blackstone_basin": "2025-07-28 05:10:14 +0000",
       "towering_cliffs": "2025-07-28 03:03:11 +0000",
       "infernal_holt": "2025-07-28 05:11:23 +0000",
+      "temperate_grove": "2025-07-29 03:54:41 +0000",
       "cold_river": "2025-07-28 01:16:34 +0000",
+      "pumpkin_fields": "2025-07-29 03:42:56 +0000",
       "pine_slopes": "2025-07-27 08:47:25 +0000",
       "golden_boreal_taiga": "2025-07-27 07:23:17 +0000",
       "hyacinth_deeps": "2025-07-28 00:53:38 +0000"
@@ -115,6 +118,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2025-07-28 00:20:06 +0000",
+      "shrubland": "2025-07-29 03:46:59 +0000",
       "fen": "2025-07-28 04:25:04 +0000",
       "muddy_river": "2025-07-27 07:22:41 +0000",
       "autumnal_maple_forest": "2025-07-28 00:18:49 +0000",
@@ -123,7 +127,9 @@
       "outback": "2025-07-27 06:38:29 +0000",
       "boreal_forest": "2025-07-27 06:52:57 +0000",
       "towering_cliffs": "2025-07-28 03:03:11 +0000",
+      "temperate_grove": "2025-07-29 03:54:41 +0000",
       "cold_river": "2025-07-28 01:16:34 +0000",
+      "pumpkin_fields": "2025-07-29 03:42:56 +0000",
       "pine_slopes": "2025-07-27 08:47:25 +0000",
       "golden_boreal_taiga": "2025-07-27 07:23:17 +0000",
       "hyacinth_deeps": "2025-07-28 00:53:38 +0000"
@@ -157,6 +163,7 @@
       "minecraft:frozen_ocean": "2025-07-28 00:54:53 +0000",
       "minecraft:desert": "2025-07-27 06:38:37 +0000",
       "minecraft:deep_frozen_ocean": "2025-07-28 00:53:40 +0000",
+      "minecraft:flower_forest": "2025-07-29 03:43:30 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-28 03:03:02 +0000",
       "minecraft:plains": "2025-07-28 00:35:02 +0000"
     },
@@ -8456,6 +8463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-07-29 03:45:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-29 02:44:28 +0000"
@@ -8504,6 +8517,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-07-29 03:45:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-07-29 02:44:28 +0000"
@@ -8534,6 +8553,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-07-29 03:55:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-07-29 02:44:28 +0000"
@@ -8546,6 +8571,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-29 03:45:01 +0000",
+      "has_the_recipe": "2025-07-29 03:45:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-07-29 03:48:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-29 02:44:28 +0000"
@@ -8555,6 +8593,12 @@
   "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2025-07-29 03:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-29 03:45:01 +0000"
     },
     "done": true
   },
@@ -8591,6 +8635,12 @@
   "securitycraft:recipes/decorations/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-07-29 02:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-07-29 03:48:01 +0000"
     },
     "done": true
   },

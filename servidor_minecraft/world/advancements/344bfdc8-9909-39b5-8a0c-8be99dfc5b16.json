@@ -92,6 +92,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2025-07-28 00:17:25 +0000",
+      "shrubland": "2025-07-29 03:46:48 +0000",
       "fen": "2025-07-28 04:18:14 +0000",
       "muddy_river": "2025-07-27 07:33:47 +0000",
       "autumnal_maple_forest": "2025-07-28 00:17:28 +0000",
@@ -105,6 +106,7 @@
       "towering_cliffs": "2025-07-28 03:11:07 +0000",
       "infernal_holt": "2025-07-28 05:53:52 +0000",
       "cold_river": "2025-07-28 02:46:57 +0000",
+      "pumpkin_fields": "2025-07-29 03:42:57 +0000",
       "pine_slopes": "2025-07-28 00:56:48 +0000",
       "golden_boreal_taiga": "2025-07-28 01:02:28 +0000"
     },
@@ -113,6 +115,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2025-07-28 00:17:25 +0000",
+      "shrubland": "2025-07-29 03:46:48 +0000",
       "fen": "2025-07-28 04:18:14 +0000",
       "muddy_river": "2025-07-27 07:33:47 +0000",
       "autumnal_maple_forest": "2025-07-28 00:17:28 +0000",
@@ -122,6 +125,7 @@
       "boreal_forest": "2025-07-27 07:33:38 +0000",
       "towering_cliffs": "2025-07-28 03:11:07 +0000",
       "cold_river": "2025-07-28 02:46:57 +0000",
+      "pumpkin_fields": "2025-07-29 03:42:57 +0000",
       "pine_slopes": "2025-07-28 00:56:48 +0000",
       "golden_boreal_taiga": "2025-07-28 01:02:28 +0000"
     },
@@ -389,6 +393,7 @@
       "minecraft:cold_ocean": "2025-07-27 07:47:28 +0000",
       "minecraft:forest": "2025-07-28 00:36:53 +0000",
       "minecraft:deep_cold_ocean": "2025-07-28 01:00:49 +0000",
+      "minecraft:flower_forest": "2025-07-29 03:43:31 +0000",
       "minecraft:frozen_peaks": "2025-07-28 00:56:39 +0000",
       "minecraft:meadow": "2025-07-28 00:50:50 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-28 03:05:00 +0000",
@@ -7607,9 +7612,51 @@
     },
     "done": true
   },
+  "boatload:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_warped_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-07-29 03:04:44 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/bamboo_furnace_raft": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-07-29 03:47:56 +0000"
     },
     "done": true
   },
@@ -7625,15 +7672,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_spruce_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/warped_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-07-29 03:10:26 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/protecto": {
     "criteria": {
       "has_ender_eye": "2025-07-29 03:04:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-07-29 03:47:56 +0000"
     },
     "done": true
   },
@@ -7649,15 +7744,69 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/mangrove_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/jungle_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/blackstone_from_blackstone_cluster": {
     "criteria": {
       "has_blackstone_cluster": "2025-07-29 02:42:31 +0000"
     },
     "done": true
   },
+  "boatload:recipes/transportation/large_crimson_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_jungle_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-07-29 02:42:04 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
     },
     "done": true
   },
@@ -7673,9 +7822,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/oak_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-07-29 02:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-29 03:54:49 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/acacia_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
     },
     "done": true
   },
@@ -7685,9 +7864,51 @@
     },
     "done": true
   },
+  "boatload:recipes/transportation/dark_oak_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-07-29 03:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/wide_bamboo_raft": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_birch_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/cherry_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/birch_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
     },
     "done": true
   },
@@ -7703,9 +7924,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-29 03:47:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2025-07-29 03:10:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/spruce_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
     },
     "done": true
   },
@@ -7721,9 +7966,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
       "has_item": "2025-07-29 03:10:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
     },
     "done": true
   },
@@ -7739,15 +7996,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/crimson_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-07-29 03:10:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_oak_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-07-29 03:48:09 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_cherry_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_dark_oak_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_acacia_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-29 03:47:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-07-29 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_mangrove_boat": {
+    "criteria": {
+      "has_boat": "2025-07-29 03:41:42 +0000"
     },
     "done": true
   },
