@@ -1096,3 +1096,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [29Jul2025 04:18:12.832] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
 [29Jul2025 04:18:12.832] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
 [29Jul2025 04:18:37.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has made the advancement [Who You Gonna Call?]
+[29Jul2025 04:19:08.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jackjaeger has made the advancement [Who You Gonna Call?]
+[29Jul2025 04:19:27.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has made the advancement [Who You Gonna Call?]
+[29Jul2025 04:22:55.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peker) moved wrongly! 1.194722718952903
+[29Jul2025 04:22:55.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peker) moved wrongly! 1.1646505701152137
+[29Jul2025 04:22:55.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peker) moved wrongly! 1.1375856368782706
+[29Jul2025 04:22:55.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peker) moved wrongly! 1.1132271976102857
+[29Jul2025 04:23:23.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has made the advancement [Dripstone Everywhere]
+[29Jul2025 04:23:24.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi has made the advancement [Dripstone Everywhere]
+[29Jul2025 04:23:32.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has made the advancement [Dripstone Everywhere]
+[29Jul2025 04:23:34.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jackjaeger has made the advancement [Dripstone Everywhere]
+[29Jul2025 04:23:54.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jackjaeger has made the advancement [A Disgusting Worm]
+[29Jul2025 04:24:00.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has made the advancement [A Disgusting Worm]
+[29Jul2025 04:24:06.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has made the advancement [A Disgusting Worm]
+[29Jul2025 04:25:52.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi has made the advancement [A Disgusting Worm]
+[29Jul2025 04:27:07.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jackjaeger was slain by Ancient Guardian
+[29Jul2025 04:27:22.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Teleported AmateuS to Jackjaeger]
+[29Jul2025 04:27:30.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Teleported AmateuS to Peker]
+[29Jul2025 04:27:38.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Teleported Jackjaeger to AmateuS]
+[29Jul2025 04:27:41.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has completed the challenge [The One - Armed Monster]
+[29Jul2025 04:28:38.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi has reached the goal [Postmortal]

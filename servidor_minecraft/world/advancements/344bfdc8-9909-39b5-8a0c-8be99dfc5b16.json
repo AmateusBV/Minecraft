@@ -7673,6 +7673,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-07-29 04:23:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-07-29 03:00:07 +0000"
@@ -7706,6 +7712,12 @@
   "boatload:recipes/transportation/warped_furnace_boat": {
     "criteria": {
       "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_the_ancient_guardian": {
+    "criteria": {
+      "guardian": "2025-07-29 04:27:41 +0000"
     },
     "done": true
   },
@@ -7829,9 +7841,21 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2025-07-29 04:24:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-07-29 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-29 04:19:27 +0000"
     },
     "done": true
   },

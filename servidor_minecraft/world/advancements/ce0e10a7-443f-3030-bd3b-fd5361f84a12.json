@@ -8465,6 +8465,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-07-29 04:23:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2025-07-29 04:02:12 +0000"
@@ -8579,9 +8585,27 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2025-07-29 04:24:06 +0000"
+    },
+    "done": true
+  },
   "mutantmonsters:burn_zombie_burn": {
     "criteria": {
       "used_flint_and_steel": "2025-07-29 03:03:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-07-29 04:25:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-29 04:18:37 +0000"
     },
     "done": true
   },

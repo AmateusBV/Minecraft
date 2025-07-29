@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-07-29 04:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-29 03:00:38 +0000"
@@ -548,6 +554,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-07-29 03:25:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-29 04:27:43 +0000"
     },
     "done": true
   },
@@ -1314,6 +1326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-29 04:27:43 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-07-29 03:40:41 +0000"
@@ -1632,6 +1650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-29 04:22:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-29 03:12:35 +0000"
@@ -1701,6 +1725,12 @@
   "tconstruct:recipes/decorations/common/gold_bars": {
     "criteria": {
       "has_ingot": "2025-07-29 03:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/stripped_spruce_log_from_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:22:10 +0000"
     },
     "done": true
   },
@@ -2022,6 +2052,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/white_magnolia_sapling_from_white_magnolia_shrub": {
+    "criteria": {
+      "has_white_magnolia_shrub": "2025-07-29 04:18:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-07-29 03:14:04 +0000"
@@ -2071,6 +2107,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-29 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-29 04:27:43 +0000"
     },
     "done": true
   },
@@ -2131,6 +2173,12 @@
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-29 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2025-07-29 04:25:52 +0000"
     },
     "done": true
   },
@@ -2735,6 +2783,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-29 04:01:14 +0000",
+      "minecraft:skeleton": "2025-07-29 04:18:06 +0000",
       "minecraft:spider": "2025-07-29 04:13:35 +0000",
       "minecraft:witch": "2025-07-29 04:07:07 +0000",
       "minecraft:zombie": "2025-07-29 04:14:03 +0000"
@@ -2768,6 +2817,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-29 04:03:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-07-29 04:27:44 +0000"
     },
     "done": true
   },
@@ -3263,6 +3318,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-07-29 04:22:10 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/tools/armor/travelers_pants": {
     "criteria": {
       "has_item": "2025-07-29 03:24:38 +0000"
@@ -3338,6 +3399,12 @@
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-07-29 04:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-29 04:22:04 +0000"
     },
     "done": true
   },
@@ -3815,9 +3882,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-29 04:27:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-07-29 03:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 04:22:10 +0000"
     },
     "done": true
   },
@@ -4547,6 +4626,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-07-29 04:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-07-29 04:02:53 +0000"
@@ -4573,6 +4658,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-07-29 04:22:59 +0000",
       "minecraft:river": "2025-07-29 03:43:21 +0000",
       "minecraft:forest": "2025-07-29 03:55:04 +0000",
       "minecraft:flower_forest": "2025-07-29 03:43:31 +0000",
