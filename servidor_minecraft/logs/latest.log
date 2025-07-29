@@ -1169,3 +1169,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [29Jul2025 05:14:04.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-201, y=49, z=221} BlockPos{x=-201, y=48, z=221}
 [29Jul2025 05:18:27.733] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
 [29Jul2025 05:20:13.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has made the advancement [Who is Cutting Onions?]
+[29Jul2025 05:21:53.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has made the advancement [Who is Cutting Onions?]
+[29Jul2025 05:25:17.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has made the advancement [Ice Bucket Challenge]
+[29Jul2025 05:29:52.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS tried to swim in lava
+[29Jul2025 05:41:57.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-295, y=66, z=268} BlockPos{x=-296, y=66, z=268}
+[29Jul2025 05:45:18.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker withered away whilst fighting Ancient Knight
+[29Jul2025 05:45:21.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS was slain by Ancient Knight
+[29Jul2025 05:45:55.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS was slain by Ancient Knight
+[29Jul2025 05:47:19.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Teleported Peker to AmateuS]

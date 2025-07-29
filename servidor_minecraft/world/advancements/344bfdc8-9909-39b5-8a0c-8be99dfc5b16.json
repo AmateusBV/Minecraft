@@ -1985,6 +1985,7 @@
       "minecraft:creeper": "2025-07-28 08:12:48 +0000",
       "minecraft:phantom": "2025-07-29 04:54:49 +0000",
       "minecraft:witch": "2025-07-29 04:03:00 +0000",
+      "minecraft:wither_skeleton": "2025-07-29 05:21:20 +0000",
       "minecraft:zombie": "2025-07-27 23:46:43 +0000",
       "minecraft:drowned": "2025-07-28 04:22:54 +0000"
     },
@@ -7767,6 +7768,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-29 05:21:53 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
     "criteria": {
       "has_item": "2025-07-29 05:08:27 +0000"
@@ -7866,6 +7873,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-07-29 02:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-29 05:21:53 +0000"
     },
     "done": true
   },
