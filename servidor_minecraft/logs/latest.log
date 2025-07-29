@@ -1008,3 +1008,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [29Jul2025 02:31:58.799] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jackjaeger[/127.216.198.171:34897] logged in with entity id 626 at (-239.5, 67.5625, 2016.5)
 [29Jul2025 02:31:58.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jackjaeger joined the game
 [29Jul2025 02:32:46.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AmateuS> entra al vc topo
+[29Jul2025 02:37:51.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Peker[/127.206.118.151:46545] logged in with entity id 1635 at (-236.57500233100123, 67.0, 2014.0963463955138)
+[29Jul2025 02:37:51.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker joined the game
+[29Jul2025 02:38:41.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Set own game mode to Creative Mode]
+[29Jul2025 02:40:37.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has made the advancement [Life turned out to be a comedy]
+[29Jul2025 02:45:25.279] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@42114d0[id=<null>,name=Minisalchi,properties={},legacy=false] (/127.206.118.151:39563): Took too long to log in
+[29Jul2025 02:45:25.280] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42114d0[id=<null>,name=Minisalchi,properties={},legacy=false] (/127.206.118.151:39563) lost connection: Took too long to log in
+[29Jul2025 02:45:25.328] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jul2025 02:46:01.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Minisalchi[/127.206.118.151:42381] logged in with entity id 3962 at (-647.5, 64.0, -492.5)
+[29Jul2025 02:46:01.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi joined the game
+[29Jul2025 02:46:01.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi has made the advancement [Orcz Challenges]
+[29Jul2025 02:46:01.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi has made the advancement [Ice and Fire]
+[29Jul2025 02:46:06.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has made the advancement [Cover Me with Diamonds]
+[29Jul2025 02:47:16.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peker has made the advancement [Crops of the Wild]
