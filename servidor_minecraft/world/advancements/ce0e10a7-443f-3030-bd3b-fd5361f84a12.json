@@ -7884,7 +7884,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-07-29 04:59:48 +0000",
-      "minecraft:nether_wastes": "2025-07-28 06:05:10 +0000"
+      "minecraft:nether_wastes": "2025-07-28 06:05:10 +0000",
+      "minecraft:soul_sand_valley": "2025-07-29 05:14:52 +0000"
     },
     "done": false
   },
@@ -8669,6 +8670,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_lava_eater": {
+    "criteria": {
+      "lava_eater": "2025-07-29 05:12:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-07-29 04:02:48 +0000"
@@ -8702,6 +8709,12 @@
   "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-29 02:44:28 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2025-07-29 05:12:51 +0000"
     },
     "done": true
   },
