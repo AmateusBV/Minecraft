@@ -1052,3 +1052,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [31Jul2025 02:04:51.570] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipillo123[/127.46.37.62:59079] logged in with entity id 10947 at (-234.94692862012968, 63.0, 2008.6822898920684)
 [31Jul2025 02:04:51.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipillo123 joined the game
 [31Jul2025 02:05:06.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi has made the advancement [Good Demoman]
+[31Jul2025 02:10:39.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipillo123 was kicked for floating too long!
+[31Jul2025 02:10:39.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipillo123 lost connection: Flying is not enabled on this server
+[31Jul2025 02:10:39.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipillo123 left the game
+[31Jul2025 02:12:56.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh was slain by Tiger
+[31Jul2025 02:13:41.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS was punctured by Minisalchi's magic arrow
+[31Jul2025 02:15:51.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS was slain by Tiger
+[31Jul2025 02:16:40.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS cooked in Minisalchi's fiery field

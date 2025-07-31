@@ -5226,6 +5226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-31 02:08:49 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-07-31 02:00:35 +0000"
@@ -5238,8 +5244,15 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-07-31 02:05:06 +0000"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
+      "broad_axe": "2025-07-31 02:04:26 +0000",
       "cleaver": "2025-07-31 02:02:08 +0000"
     },
     "done": false
@@ -5261,6 +5274,12 @@
       "pickaxe": "2025-07-31 02:02:08 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-31 02:05:06 +0000"
+    },
+    "done": true
   },
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
@@ -5286,9 +5305,21 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-07-31 02:05:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-07-31 01:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-31 02:08:23 +0000"
     },
     "done": true
   },
@@ -5296,9 +5327,10 @@
     "criteria": {
       "crafted_leggings": "2025-07-31 02:02:09 +0000",
       "crafted_boots": "2025-07-31 02:02:09 +0000",
+      "crafted_helmet": "2025-07-31 02:03:23 +0000",
       "crafted_chestplate": "2025-07-31 02:02:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
