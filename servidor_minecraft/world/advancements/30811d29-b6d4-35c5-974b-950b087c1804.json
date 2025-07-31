@@ -156,6 +156,7 @@
     "criteria": {
       "minecraft:taiga": "2025-07-27 06:51:46 +0000",
       "minecraft:sunflower_plains": "2025-07-28 01:14:59 +0000",
+      "minecraft:cherry_grove": "2025-07-29 06:38:53 +0000",
       "minecraft:beach": "2025-07-28 07:30:45 +0000",
       "minecraft:river": "2025-07-27 08:38:26 +0000",
       "minecraft:stony_shore": "2025-07-27 06:50:18 +0000",
@@ -166,6 +167,7 @@
       "minecraft:forest": "2025-07-27 23:20:41 +0000",
       "minecraft:deep_cold_ocean": "2025-07-28 01:00:49 +0000",
       "minecraft:flower_forest": "2025-07-28 07:37:45 +0000",
+      "minecraft:meadow": "2025-07-29 06:39:19 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-28 04:16:09 +0000",
       "minecraft:plains": "2025-07-28 00:34:55 +0000"
     },
@@ -10916,6 +10918,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-07-29 06:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/stripped_birch_log_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 06:56:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-07-29 05:17:10 +0000"
@@ -10952,9 +10966,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/stripped_oak_log_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 06:43:26 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
     "criteria": {
       "has_item": "2025-07-29 06:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-29 06:43:26 +0000"
     },
     "done": true
   },
@@ -10974,7 +11000,8 @@
     "criteria": {
       "broad_axe": "2025-07-29 04:45:22 +0000",
       "sledge_hammer": "2025-07-29 04:25:27 +0000",
-      "longbow": "2025-07-29 04:35:28 +0000"
+      "longbow": "2025-07-29 04:35:28 +0000",
+      "cleaver": "2025-07-29 07:04:21 +0000"
     },
     "done": false
   },
@@ -10990,6 +11017,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-07-29 06:49:57 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-07-29 06:59:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-07-29 05:17:10 +0000"
@@ -10999,6 +11038,12 @@
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2025-07-29 05:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 06:43:26 +0000"
     },
     "done": true
   },
@@ -11035,6 +11080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-29 06:56:53 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_slab": {
     "criteria": {
       "has_item": "2025-07-29 02:33:45 +0000"
@@ -11065,6 +11116,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-07-29 06:43:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
     "criteria": {
       "has_daisy": "2025-07-29 05:12:53 +0000"
@@ -11089,6 +11146,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-29 06:43:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
       "has_item": "2025-07-29 05:39:20 +0000"
@@ -11110,6 +11173,18 @@
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-07-29 05:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-29 06:56:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2025-07-29 06:56:53 +0000"
     },
     "done": true
   },

@@ -395,6 +395,7 @@
     "criteria": {
       "minecraft:taiga": "2025-07-27 23:38:10 +0000",
       "minecraft:sunflower_plains": "2025-07-28 01:15:05 +0000",
+      "minecraft:cherry_grove": "2025-07-29 06:38:51 +0000",
       "minecraft:river": "2025-07-28 01:12:16 +0000",
       "minecraft:lukewarm_ocean": "2025-07-29 05:55:38 +0000",
       "minecraft:stony_shore": "2025-07-27 07:33:19 +0000",
@@ -7645,6 +7646,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-07-29 06:39:58 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
     "criteria": {
       "has_bone_block": "2025-07-29 05:17:20 +0000"
@@ -7714,6 +7721,12 @@
   "boatload:recipes/transportation/large_spruce_boat": {
     "criteria": {
       "has_boat": "2025-07-29 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-07-29 06:45:12 +0000"
     },
     "done": true
   },
