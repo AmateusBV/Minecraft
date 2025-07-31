@@ -1059,3 +1059,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [31Jul2025 02:13:41.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS was punctured by Minisalchi's magic arrow
 [31Jul2025 02:15:51.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS was slain by Tiger
 [31Jul2025 02:16:40.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS cooked in Minisalchi's fiery field
+[31Jul2025 02:19:37.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AmateuS lost connection: Disconnected
+[31Jul2025 02:19:37.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS left the game
+[31Jul2025 02:26:59.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xiuh lost connection: Disconnected
+[31Jul2025 02:26:59.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh left the game
+[31Jul2025 02:27:02.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minisalchi lost connection: Disconnected
+[31Jul2025 02:27:02.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi left the game
