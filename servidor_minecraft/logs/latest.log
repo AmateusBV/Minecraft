@@ -1018,3 +1018,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [31Jul2025 01:43:53.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AmateuS lost connection: Disconnected
 [31Jul2025 01:43:53.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS left the game
 [31Jul2025 01:43:53.385] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Jul2025 01:45:44.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AmateuS[/127.49.31.208:49491] logged in with entity id 2229 at (-262.3015402986531, 68.39821231572404, 1800.394693372927)
+[31Jul2025 01:45:44.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS joined the game
+[31Jul2025 01:45:49.595] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipillo123[/127.46.37.62:49731] logged in with entity id 2430 at (-645.5, 65.0, -504.5)
+[31Jul2025 01:45:49.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipillo123 joined the game
+[31Jul2025 01:45:50.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipillo123 has made the advancement [Ice and Fire]
+[31Jul2025 01:45:50.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipillo123 has made the advancement [Orcz Challenges]
+[31Jul2025 01:46:46.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Minisalchi[/127.206.118.151:58099] logged in with entity id 3167 at (-237.4611568942455, 67.0, 2010.3461261625444)
+[31Jul2025 01:46:46.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi joined the game
+[31Jul2025 01:57:06.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Teleported felipillo123 to AmateuS]
+[31Jul2025 01:58:12.809] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipillo123 lost connection: Disconnected
+[31Jul2025 01:58:12.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipillo123 left the game
+[31Jul2025 01:58:45.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has reached the goal [I Am Become Death]
+[31Jul2025 02:00:35.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi has reached the goal [Quaint Scribe]
+[31Jul2025 02:01:52.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi was slain by Nightmare Stalker
+[31Jul2025 02:01:54.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh has reached the goal [New Age Librarian]
+[31Jul2025 02:02:03.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh was slain by Nightmare Stalker
+[31Jul2025 02:02:14.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi was slain by Nightmare Stalker
+[31Jul2025 02:02:15.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh has completed the challenge [It's Purple!]
+[31Jul2025 02:02:21.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh was slain by Nightmare Stalker
+[31Jul2025 02:02:36.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh was slain by Nightmare Stalker
+[31Jul2025 02:02:45.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi was slain by Nightmare Stalker
+[31Jul2025 02:02:51.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh was slain by Nightmare Stalker
+[31Jul2025 02:03:06.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh was slain by Nightmare Stalker
+[31Jul2025 02:03:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh was slain by Nightmare Stalker
+[31Jul2025 02:03:23.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi has reached the goal [Plate Armor]
+[31Jul2025 02:03:24.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi was slain by Nightmare Stalker
+[31Jul2025 02:03:28.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has reached the goal [Quaint Scribe]
+[31Jul2025 02:03:28.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AmateuS has reached the goal [New Age Librarian]
+[31Jul2025 02:03:47.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xiuh was slain by Nightmare Stalker
+[31Jul2025 02:04:03.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi was slain by Nightmare Stalker
+[31Jul2025 02:04:17.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AmateuS: Set own game mode to Survival Mode]
+[31Jul2025 02:04:51.570] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipillo123[/127.46.37.62:59079] logged in with entity id 10947 at (-234.94692862012968, 63.0, 2008.6822898920684)
+[31Jul2025 02:04:51.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipillo123 joined the game
+[31Jul2025 02:05:06.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minisalchi has made the advancement [Good Demoman]
